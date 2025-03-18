@@ -6,6 +6,8 @@ title: Test Section
 <!-- TODO: ADD LINKS to the "" section -->
 <!-- TODO: -->
 
+<a href="LINK" target="_blank" rel="noopener noreferrer">TEXT</a>
+
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3 <a href="#">This is a link</a></h3>
