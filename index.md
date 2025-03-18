@@ -9,18 +9,18 @@ This playbook is a field guide for people at Bloom Works—or anyone—to naviga
 
 Keep reading this section to get background on what a discovery sprint is, who’s involved, and key tips for making them successful. 
 
-<!-- TODO: Style header 3 to look different than header 2 -->
+<!-- TODO: Style header 3 to look more different than header 2 -->
 ### Phases
 
 This playbook has 5 sections (or phases), just like a discovery sprint:
 
-<!-- TODO: ADD LINKS to the "Prepare", "Define", "Discover", "Design & refine", "Deliver" sections -->
+<!-- TODO: check that links to sections work -->
 <ol>
-    <li>Prepare -- Get everything you need to prepare for a sprint, leading up to kickoff.</li>
-    <li>Define -- Gain an intimate understanding of the problem space. Start to create a plan to conduct discovery.</li>
-    <li>Discover -- Time to get professionally curious! Find methods and techniques on how to conduct research and synthesis.</li>
-    <li>Design & refine -- Take what you’ve learned in discovery and begin to interpret findings and generate paths forward.</li>
-    <li>Deliver — Present to your clients, ship deliverables, and wrap up the sprint.</li>
+    <li><a href="/sections/prepare/">Prepare</a> -- Get everything you need to prepare for a sprint, leading up to kickoff.</li>
+    <li><a href="/sections/define/">Define</a> -- Gain an intimate understanding of the problem space. Start to create a plan to conduct discovery.</li>
+    <li><a href="/sections/discover/">Discover</a> -- Time to get professionally curious! Find methods and techniques on how to conduct research and synthesis.</li>
+    <li><a href="/sections/design_and_refine/">Design and refine</a> -- Take what you’ve learned in discovery and begin to interpret findings and generate paths forward.</li>
+    <li><a href="/sections/deliver/">Deliver</a> — Present to your clients, ship deliverables, and wrap up the sprint.</li>
 </ol>
 
 ### Plays
