@@ -1,3 +1,23 @@
+{#--- Collect metadata about the current page (items are null if not a section) ---#}
+{% set thisSection = null %}
+{% set priorSection = null %}
+{% set nextSection = null %}
+
+{% for section in collections.sections %}
+  {% if section.page.fileSlug === page.fileSlug %}
+    {% set thisSection = section %}
+
+    {% if thisSection.order != 0 %}
+      {% set priorSection = collections.sections[thisSection.order-1] %} 
+    {% endif %}
+
+    {% if collections.sections|length >= thisSection.order %}
+      {% set nextSection = collections.sections[thisSection.order+1] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{#--- Layouts to include ---#}
 {% include "layouts/head.njk" %}
 {% include "layouts/seo.njk" %}
 {% include "layouts/css.njk" %}
@@ -5,6 +25,7 @@
 {% include "layouts/content.njk" %}
 {% include "layouts/footer.njk" %}
 
+{#--- Events for Nav ---#}
 <script>
   const allSectionsButton = document.querySelector("#all-sections-button");
   const allSectionsModal = document.querySelector("#all-sections-modal");

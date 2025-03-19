@@ -52,6 +52,7 @@ To add a new section to the site:
     - `layout: layouts/section`
     - `title: My New Section's Title`
 1. Add content below the second `---`
+1. Add the base of the file name into the `_data/table_of_contents.json` file in the desired order. For example, if you section is called `super-important.md`, then you would add the `"super-important"` (no `.md`) into the `_data/table_of_contents.json`.
 
 Feel free to look at any of the existing sections as a starting point.
 
