@@ -1,13 +1,30 @@
 ---
-layout: layouts/base
-title: Home
+layout: layouts/section
+title: Test Section
 ---
+
+<!-- TODO: ADD LINKS to the "" section -->
+<!-- TODO: -->
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">TEXT</a>
+
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+{% Checklist %}
+- 
+{%- endChecklist -%}
 
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3 <a href="#">This is a link</a></h3>
 <h4>Heading 4 <a href="#">This is a link</a></h4>
-<h5>Heading 5 <a href="#">This is a link</a></h5>
+<h5>Heading 5 <a href="#">This is a linky link</a></h5>
 <h6>Heading 6 <a href="#">This is a link</a></h6>
 <p>Paragraph content <a href="#">This is a link</a></p>
 <p class="subhead">Secondary caption text <a href="#">This is a link</a></p>
