@@ -61,13 +61,6 @@ module.exports = function (eleventyConfig) {
     return (tags || []).filter(tag => ['all', 'nav'].indexOf(tag) === -1);
   })
 
-  // Create a collection for sections in alphabetical title order
-  eleventyConfig.addCollection('sections', function (collection) {
-    return collection.getFilteredByTag('section').sort((a, b) => {
-      return a.data.title.localeCompare(b.data.title);
-    });
-  });
-
   // Create an array of all tags
   eleventyConfig.addCollection('tagList', function (collection) {
     const tagSet = new Set();
@@ -76,6 +69,23 @@ module.exports = function (eleventyConfig) {
     });
 
     return [...tagSet];
+  });
+
+  // Combines metadata on pages that use the section layout with the ordering in the table of contents file
+  // Is used to generate nav items and get metadata on page ordering
+  eleventyConfig.addCollection('sections', collection => {
+    const tableOfContentsData = require('./_data/table_of_contents.json');
+
+    const combinedData = tableOfContentsData.map((fileSlug, index) => {
+      const matchingPage = collection.getAll().find(item => item.page.fileSlug === fileSlug);
+      return {
+        data: matchingPage.data,
+        page: matchingPage.page,
+        order: index
+      };
+    });
+
+    return combinedData;
   });
 
   // Copy the `img` and `css` folders to the output
