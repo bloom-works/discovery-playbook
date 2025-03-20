@@ -193,31 +193,32 @@ Adjust the timing of your milestones to fit the length and scale of your sprint 
 
 We've identified a handful of tips that tend to make discovery sprints more successful. To maintain momentum (and not feel overwhelmed), come back to these keys to success.
 
-#### 1. Stay focused on your goal
+<!-- TODO: Check with Megan that this looks ok - changed from H4's to bold since the next section is an H3 -->
+<b>1. Stay focused on your goal</b>
 
 Define your guiding goal (or “north star”) early and return to it often with the team. You want to build a <b>shared understanding</b> of a process, system, or service. Make sure everyone on the sprint team is moving intentionally toward that goal. 
 
-#### 2. Remember your client and stakeholders are knowledgeable
+<b>2. Remember your client and stakeholders are knowledgeable</b>
 
 Your client has likely been grappling with this problem space, possibly for years, and knows the lay of the land, what has been tried before, and who talks to who in the government agency. Be mindful of their expertise, learn from them, and push back respectfully as new data may surface.
 
-#### 3. Don’t jump to a solution
+<b>3. Don’t jump to a solution</b>
 
-<b>A discovery sprint is about trying to understand and frame the problem, not solve it!</b> Discovery sprint challenges are typically much too large or complex to consider solving in a handful of weeks. Instead, we spend our time identifying potential paths forward. Picking a solution too early can take away from understanding the problem, getting user perspectives, and moving within relevant constraints.
+A discovery sprint is about <b>trying to understand and frame the problem, not solve it!</b> Discovery sprint challenges are typically much too large or complex to consider solving in a handful of weeks. Instead, we spend our time identifying potential paths forward. Picking a solution too early can take away from understanding the problem, getting user perspectives, and moving within relevant constraints.
 
-#### 4. Stay curious and flexible
+<b>4. Stay curious and flexible</b>
 
 Be The Sponge. Discovery sprints are about absorbing as much information as possible. New findings should shape and refine your understanding and your deliverables. Clients can and will shift things — and that’s OK! Not only may clients shift, but <b>your own team’s assumptions, ideas, and theories can (and should!) shift as you gather more information.</b>
 
-#### 5. Communicate, communicate, communicate
+<b>5. Communicate, communicate, communicate</b>
 
 Share knowledge. Keep each other (and especially the client) up to date on new discoveries, brick walls you may hit, and pivots throughout the process. This can help you get to solutions more quickly and keep everyone aligned. Create intentional spaces for designing with each other and with the client. Check in on each other, especially during an emotionally taxing sprint or time — we’re all human, after all.
 
-#### 6. Budget time to dive deep into synthesis and decide on recommendations
+<b>6. Budget time to dive deep into synthesis and decide on recommendations</b>
 
 It is common for collecting data during the discovery phase to eclipse the effort truly needed to review and synthesize findings. Be vigilant about holding time for this during the sprint process.
 
-#### 7. Bake in time to be human with each other
+<b>7. Bake in time to be human with each other</b>
 
 Everyone has different needs, work styles, and approaches — embrace it! Take the time to learn about each other and how to work together. Set up semi-regular activities (like ice breakers or casual coffee chats) and devoted time to debrief, reflect, and connect.
 
