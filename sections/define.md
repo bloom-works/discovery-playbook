@@ -71,9 +71,9 @@ If you haven’t already, you should get familiar with the:
 There are **many** exercises and workshops that can help you get your head wrapped around the problem, including these:
 <ul>
     <li><a href="https://www.mural.co/blog/intro-assumptions-mapping" target="_blank" rel="noopener noreferrer">Assumption mapping</a> — an activity to unpack and interrogate assumptions about the project</li>
-    <li><a href="https://www.mural.co/templates/abstraction-laddering" target="_blank" rel="noopener noreferrer">Abstract laddering</a></li>
-    <li><a href="https://www.lean.org/lexicon-terms/5-whys/" target="_blank" rel="noopener noreferrer">Five Whys</a></li>
-    <li><a href="https://www.nngroup.com/articles/how-might-we-questions/" target="_blank" rel="noopener noreferrer">How-Might-We questions</a></li>
+    <li><a href="https://www.mural.co/templates/abstraction-laddering" target="_blank" rel="noopener noreferrer">Abstract laddering</a> — a strategy to refocus your problem statement through broadening and narrowing it</li>
+    <li><a href="https://www.lean.org/lexicon-terms/5-whys/" target="_blank" rel="noopener noreferrer">Five Whys</a> — repeatedly asking “why” to identify a root cause</li>
+    <li><a href="https://www.nngroup.com/articles/how-might-we-questions/" target="_blank" rel="noopener noreferrer">How-Might-We questions</a> — a way to frame questions to unlock direction</li>
     <li>Workshop and facilitation plans <a href="https://miro.com/miroverse/problem-framing-workshop/" target="_blank" rel="noopener noreferrer">like this problem framing workshop</a> to engage stakeholders in framing the problem</li>
     <li>Creating (proto) personas, journey maps, and user stories to articulate user experiences (think of these as initial hypotheses, based on quick evidence or understanding; they should be refined with research and should not be used for solutioning)</li>
     <li><a href="https://lindsayangelo.com/thinkingcont/hypothesis-driven-problem-solving-explained" target="_blank" rel="noopener noreferrer">Develop problem hypotheses</a></li>
