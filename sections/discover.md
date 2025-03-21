@@ -49,7 +49,7 @@ It's important to decide as a team on your note-taking approach during research.
 - post-it notes on an online whiteboarding tool (like Figjam), or
 spreadsheets for structured interviews or usability tests.
 
-💡**Tip:** Slack provides transcription for video files. If you record in Zoom or Meet, you can drop the video file into your private personal Slack channel (or in a research channel if you have consent to share the recording with other researchers). Then you can jump around the recording via the machine transcription.
+💡 **Tip:** Slack provides transcription for video files. If you record in Zoom or Meet, you can drop the video file into your private personal Slack channel (or in a research channel if you have consent to share the recording with other researchers). Then you can jump around the recording via the machine transcription.
 
 #### Debrief
 
