@@ -138,7 +138,7 @@ A research plan should include:
 
 You may set out with an initial list of participants and, after a couple of conversations, realize you need to talk to a different segment of people. Set checkpoints in the recruitment and data collection process to make sure you’re speaking to the right people. Leave extra time in case you need to conduct extra research. Make sure you share back any changes to the client to keep them up to speed.
 
-💡**Tip:** If the client is helping recruit participants, ask them to make warm introductions to the right people so we can source interview participants in our short time frame.
+💡 **Tip:** If the client is helping recruit participants, ask them to make warm introductions to the right people so we can source interview participants in our short time frame.
 
 #### More resources
 
@@ -199,7 +199,7 @@ It's helpful to assign 1 to 2 team members to manage your participant logistics.
 
 These team members will also need to juggle the team’s schedules to make sure everyone has an opportunity to participate.
 
-💡**Tip:** Have everyone on the team set up a tool like Google Calendar Appointment Schedules or Calendly. These tools can plug directly into each team member's calendar. Set up predetermined blocks of time in which participants can self-book. Set a limit on the number of research engagements each day (for 1-hour sessions, we recommend up to 3 per person per day) and build in buffer time for debriefing and bio breaks.
+💡 **Tip:** Have everyone on the team set up a tool like Google Calendar Appointment Schedules or Calendly. These tools can plug directly into each team member's calendar. Set up predetermined blocks of time in which participants can self-book. Set a limit on the number of research engagements each day (for 1-hour sessions, we recommend up to 3 per person per day) and build in buffer time for debriefing and bio breaks.
 
 #### Manage recruitment
 
