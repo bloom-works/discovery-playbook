@@ -82,13 +82,13 @@ For the product and delivery manager (PDM) or engagement manager (EM):
     - Anticipated timeline
     - Client collaboration and input expectations
 - Identify key roles for the client
-{%- endChecklist -%}
+{% endChecklist %}
 
 For the researchers:
 
 {% Checklist %}
 - Start drafting the research plan and participant recruitment needs
-{%- endChecklist -%}
+{% endChecklist %}
 
 For the full sprint team:
 
@@ -193,7 +193,7 @@ For the product and delivery manager (PDM):
 - Set up and facilitate internal project kickoff
 - Prepare “user manuals” for the team to fill out
 - Decide on internal sprint tools with team members and agree on their use 
-{%- endChecklist -%}
+{% endChecklist %}
 
 For the full sprint team:
 

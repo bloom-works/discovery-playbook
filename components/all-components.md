@@ -134,7 +134,7 @@ Link to FLSA coverage: [http://www.flsa.com/coverage.html](http://www.flsa.com/c
 - Is the initial timeline for the project realistic given scope and known constraints?
 - Has the team discussed how they will pivot if scope and timeline change?
 - Will it be necessary to work with a firm or external stakeholders to support participant recruitment?
-{%- endKeyQuestions -%}
+{% endKeyQuestions %}
 
 
 {% Checklist %}
@@ -143,7 +143,7 @@ Link to FLSA coverage: [http://www.flsa.com/coverage.html](http://www.flsa.com/c
 - Background material and related research has been shared.
 - Identify responsibility gaps or areas of ambiguity to address before kickoff.
 - Internal client research participants identified for week 1 sessions.
-{%- endChecklist -%}
+{% endChecklist %}
 
 
 {% ResourceGroup %}
@@ -157,7 +157,7 @@ Link to FLSA coverage: [http://www.flsa.com/coverage.html](http://www.flsa.com/c
 
 
 
-This is a {%- PrivateLink "https://docs.google.com/" -%}invite-only Google Doc{%- endPrivateLink -%} for Bloom Works staff.
+This is a {% PrivateLink "https://docs.google.com/" %}invite-only Google Doc{% endPrivateLink %} for Bloom Works staff.
 
 
 {%- Grid -%}
