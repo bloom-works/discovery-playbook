@@ -97,9 +97,8 @@ For the full sprint team:
 - Learn about other recent or existing projects to address the challenge or problem area
 - Identify responsibility gaps or areas of ambiguity to address before kickoff
 - Throughout the project, keep an eye out for goals that may need to be revised based on what the team learns
-{%- endChecklist -%}
+{% endChecklist %}
 
-<!-- TODO: Fix Key Questions formatting? It doesn't format unless there's text before -->
 ### Key questions
 
 <ul>
@@ -138,9 +137,8 @@ For the EM:
 
 {% Checklist %}
 - Make sure the team lead and other members are clear on their role and ready to work collaboratively
-{%- endChecklist -%}
+{% endChecklist %}
 
-<!-- TODO: Fix Key Questions formatting? It doesn't format unless there's text before -->
 ### Key questions
 <ul>
     <li>Do we need to use a decision-making or responsibility allocation framework? (<a href="https://www.atlassian.com/team-playbook/plays/daci" target="_blank" rel="noopener noreferrer">DACI</a> / <a href="https://asana.com/resources/raci-chart" target="_blank" rel="noopener noreferrer">RACI</a>)</li>
@@ -201,9 +199,8 @@ For the full sprint team:
 
 {% Checklist %}
 - Review the project brief and what we know about the project, problem statement, and client so far
-{%- endChecklist -%}
+{% endChecklist %}
 
-<!-- TODO: Fix Key Questions formatting? It doesn't format unless there's text before -->
 ### Key questions
 
 - What abilities and skills – including practice areas, languages, technologies - do you have that will help?
