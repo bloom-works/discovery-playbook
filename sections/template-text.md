@@ -18,7 +18,7 @@ title: Test Section
 
 {% Checklist %}
 - 
-{%- endChecklist -%}
+{% endChecklist %}
 
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
