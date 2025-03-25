@@ -94,11 +94,9 @@ Discovery sprints involve a lot of set-up work. This is because **a well-defined
 - Strikes a balance between being actionable and specific, while being open-ended and aspirational. For example: "how might we help residents compost more" rather than "how might our city become zero-waste"; and
 - Is open to change based on what we learn.
 
-### Checklist
-
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br />
 - Stay curious
 - Align on a shared understanding of the problem space
 - Identify an initial “north star” problem statement
@@ -107,7 +105,7 @@ For the full sprint team:
 - Validate an understanding of the challenge space with the client (but keep in mind that the client has their own biases!)
 {% endChecklist %}
 
-### Key questions
+{% KeyQuestions %}
 - What is the central problem you want to solve? Who is at the center of it? 
 - What could you be assuming or overlooking?
 - What has been tried in the past? Are there efforts underway in another part of the organization we should know about and learn from?
@@ -115,6 +113,7 @@ For the full sprint team:
 - Are there existing, ongoing efforts that relate to this project, that you should know about? For example, are there strategic planning projects, other consulting engagements, procurements, or other contractors?
 - What action-forcing events are on the horizon? For example, are there any known reporting deadlines, audits, media attention, or legislative attention?  
 - Is there a need to pull in subject matter experts (SMEs) not currently on the team?
+{% endKeyQuestions %}
 
 ## Develop the research plan and supporting materials
 

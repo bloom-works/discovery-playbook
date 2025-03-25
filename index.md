@@ -34,7 +34,7 @@ Each phase is broken into "plays." Each play is a set of instructions on how to 
 </ul>
 
 <!-- TODO: ADD LINKS to the "More resources" section -->
-💡 Tip: If you find an unfamiliar word—or you’re just looking for a specific template—jump to the <b>More resources</b> section at the end of this playbook. In there, you’ll find words that are commonly used in discovery sprints, plus useful links.
+💡 <b>Tip:</b> If you find an unfamiliar word—or you’re just looking for a specific template—jump to the <b>More resources</b> section at the end of this playbook. In there, you’ll find words that are commonly used in discovery sprints, plus useful links.
 
 ### Other things to know
 This playbook is by no means exhaustive or set in stone. We chose the “playbook” format because it’s flexible and customizable. Discovery sprints are fast-paced, fluid, and vary in scope. If you need to run plays in different orders or add your own, we encourage that. In fact, most sprints aren’t linear and go back and forth between phases—that’s OK!
@@ -187,16 +187,15 @@ Adjust the timing of your milestones to fit the length and scale of your sprint 
   </tbody>
 </table>
 
-<b>Note:</b> Some preparation happens before “week 0” in a sprint that we don’t elaborate on in this playbook. This includes setting up the contract with our client, budget, timeframe, staffing plan, and initial scope of work. At Bloom, we use <a href="https://docs.google.com/document/d/182Q_oWEJHvrs1GPHSFwY6V84kwXlLdzQVVDLxR8xcoQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">an internal project startup doc</a>🔒.
+<b>Note:</b> Some preparation happens before “week 0” in a sprint that we don’t elaborate on in this playbook. This includes setting up the contract with our client, budget, timeframe, staffing plan, and initial scope of work. At Bloom, we use <a href="https://docs.google.com/document/d/182Q_oWEJHvrs1GPHSFwY6V84kwXlLdzQVVDLxR8xcoQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">an internal project startup doc</a> 🔒.
 
 ## Keys to success
 
 We've identified a handful of tips that tend to make discovery sprints more successful. To maintain momentum (and not feel overwhelmed), come back to these keys to success.
 
-<!-- TODO: Check with Megan that this looks ok - changed from H4's to bold since the next section is an H3 -->
 <b>1. Stay focused on your goal</b>
 
-Define your guiding goal (or “north star”) early and return to it often with the team. You want to build a <b>shared understanding</b> of a process, system, or service. Make sure everyone on the sprint team is moving intentionally toward that goal. 
+Define your guiding goal (or “north star”) early and return to it often with the team. You want to build a shared understanding of a process, system, or service. Make sure everyone on the sprint team is moving intentionally toward that goal. 
 
 <b>2. Remember your client and stakeholders are knowledgeable</b>
 
@@ -204,11 +203,11 @@ Your client has likely been grappling with this problem space, possibly for year
 
 <b>3. Don’t jump to a solution</b>
 
-A discovery sprint is about <b>trying to understand and frame the problem, not solve it!</b> Discovery sprint challenges are typically much too large or complex to consider solving in a handful of weeks. Instead, we spend our time identifying potential paths forward. Picking a solution too early can take away from understanding the problem, getting user perspectives, and moving within relevant constraints.
+A discovery sprint is about trying to understand and frame the problem, not solve it! Discovery sprint challenges are typically much too large or complex to consider solving in a handful of weeks. Instead, we spend our time identifying potential paths forward. Picking a solution too early can take away from understanding the problem, getting user perspectives, and moving within relevant constraints.
 
 <b>4. Stay curious and flexible</b>
 
-Be The Sponge. Discovery sprints are about absorbing as much information as possible. New findings should shape and refine your understanding and your deliverables. Clients can and will shift things — and that’s OK! Not only may clients shift, but <b>your own team’s assumptions, ideas, and theories can (and should!) shift as you gather more information.</b>
+Be The Sponge. Discovery sprints are about absorbing as much information as possible. New findings should shape and refine your understanding and your deliverables. Clients can and will shift things — and that’s OK! Not only may clients shift, but your own team’s assumptions, ideas, and theories can (and should!) shift as you gather more information.
 
 <b>5. Communicate, communicate, communicate</b>
 

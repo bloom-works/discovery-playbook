@@ -10,4 +10,4 @@ permalink: "/components/key-questions/"
 - Is the initial timeline for the project realistic given scope and known constraints?
 - Has the team discussed how they will pivot if scope and timeline change?
 - Will it be necessary to work with a firm or external stakeholders to support participant recruitment?
-{%- endKeyQuestions -%}
+{% endKeyQuestions %}
