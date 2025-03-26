@@ -71,9 +71,9 @@ If you haven’t already, you should get familiar with the:
 There are **many** exercises and workshops that can help you get your head wrapped around the problem, including these:
 <ul>
     <li><a href="https://www.mural.co/blog/intro-assumptions-mapping" target="_blank" rel="noopener noreferrer">Assumption mapping</a> — an activity to unpack and interrogate assumptions about the project</li>
-    <li><a href="https://www.mural.co/templates/abstraction-laddering" target="_blank" rel="noopener noreferrer">Abstract laddering</a></li>
-    <li><a href="https://www.lean.org/lexicon-terms/5-whys/" target="_blank" rel="noopener noreferrer">Five Whys</a></li>
-    <li><a href="https://www.nngroup.com/articles/how-might-we-questions/" target="_blank" rel="noopener noreferrer">How-Might-We questions</a></li>
+    <li><a href="https://www.mural.co/templates/abstraction-laddering" target="_blank" rel="noopener noreferrer">Abstract laddering</a> — a strategy to refocus your problem statement through broadening and narrowing it</li>
+    <li><a href="https://www.lean.org/lexicon-terms/5-whys/" target="_blank" rel="noopener noreferrer">Five Whys</a> — repeatedly asking “why” to identify a root cause</li>
+    <li><a href="https://www.nngroup.com/articles/how-might-we-questions/" target="_blank" rel="noopener noreferrer">How-Might-We questions</a> — a way to frame questions to unlock direction</li>
     <li>Workshop and facilitation plans <a href="https://miro.com/miroverse/problem-framing-workshop/" target="_blank" rel="noopener noreferrer">like this problem framing workshop</a> to engage stakeholders in framing the problem</li>
     <li>Creating (proto) personas, journey maps, and user stories to articulate user experiences (think of these as initial hypotheses, based on quick evidence or understanding; they should be refined with research and should not be used for solutioning)</li>
     <li><a href="https://lindsayangelo.com/thinkingcont/hypothesis-driven-problem-solving-explained" target="_blank" rel="noopener noreferrer">Develop problem hypotheses</a></li>
@@ -94,11 +94,9 @@ Discovery sprints involve a lot of set-up work. This is because **a well-defined
 - Strikes a balance between being actionable and specific, while being open-ended and aspirational. For example: "how might we help residents compost more" rather than "how might our city become zero-waste"; and
 - Is open to change based on what we learn.
 
-### Checklist
-
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br />
 - Stay curious
 - Align on a shared understanding of the problem space
 - Identify an initial “north star” problem statement
@@ -107,7 +105,7 @@ For the full sprint team:
 - Validate an understanding of the challenge space with the client (but keep in mind that the client has their own biases!)
 {% endChecklist %}
 
-### Key questions
+{% KeyQuestions %}
 - What is the central problem you want to solve? Who is at the center of it? 
 - What could you be assuming or overlooking?
 - What has been tried in the past? Are there efforts underway in another part of the organization we should know about and learn from?
@@ -115,6 +113,7 @@ For the full sprint team:
 - Are there existing, ongoing efforts that relate to this project, that you should know about? For example, are there strategic planning projects, other consulting engagements, procurements, or other contractors?
 - What action-forcing events are on the horizon? For example, are there any known reporting deadlines, audits, media attention, or legislative attention?  
 - Is there a need to pull in subject matter experts (SMEs) not currently on the team?
+{% endKeyQuestions %}
 
 ## Develop the research plan and supporting materials
 
