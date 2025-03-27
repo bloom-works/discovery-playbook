@@ -92,7 +92,8 @@ Workshop draft recommendations with your client before you move onto final deliv
 💡 **Tip:** Sometimes, research can be purely transactional. Your client may not want you to workshop recommendations, and that’s fine! Find an approach that works best for your client relationship.
 
 #### More resources
-- <a href="https://docs.google.com/presentation/d/1ZqLmCTULwd_4q6tERoXWLHRw0xsRb14W/edit?usp=share_link&ouid=105196013299210443277&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Impact/effort matrix for prioritizing recommendations</a> 🔒
+
+- {% PrivateLink "https://docs.google.com/presentation/d/1ZqLmCTULwd_4q6tERoXWLHRw0xsRb14W/edit?usp=share_link&ouid=105196013299210443277&rtpof=true&sd=true" %}Impact/effort matrix for prioritizing recommendations{% endPrivateLink %}
 
 {% Checklist %}
 For the researcher, or full sprint team:

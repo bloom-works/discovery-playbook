@@ -133,10 +133,8 @@ You may set out with an initial list of participants and, after a couple of conv
 
 #### More resources
 
-<ul>
-    <li><a href="https://docs.google.com/document/d/1q68jx0lxmM5WdSbxf30Q4arnD3IpnaZyLF_jUUWB2NM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Example research plan</a></li>
-    <li><a href="https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" target="_blank" rel="noopener noreferrer">How to do user research at Bloom Works</a> 🔒</li>
-</ul>
+- <a href="https://docs.google.com/document/d/1q68jx0lxmM5WdSbxf30Q4arnD3IpnaZyLF_jUUWB2NM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Example research plan</a>
+- {% PrivateLink "https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" %}How to do user research at Bloom Works{% endPrivateLink %}
 
 {% Checklist %}
 For the product and delivery manager (PDM):

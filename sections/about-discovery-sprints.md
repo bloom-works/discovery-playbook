@@ -154,7 +154,7 @@ Adjust the timing of your milestones to fit the length and scale of your sprint 
   </tbody>
 </table>
 
-<b>Note:</b> Some preparation happens before “week 0” in a sprint that we don’t elaborate on in this playbook. This includes setting up the contract with our client, budget, timeframe, staffing plan, and initial scope of work. At Bloom, we use <a href="https://docs.google.com/document/d/182Q_oWEJHvrs1GPHSFwY6V84kwXlLdzQVVDLxR8xcoQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">an internal project startup doc</a> 🔒.
+<b>Note:</b> Some preparation happens before “week 0” in a sprint that we don’t elaborate on in this playbook. This includes setting up the contract with our client, budget, timeframe, staffing plan, and initial scope of work. At Bloom, we use {% PrivateLink "https://docs.google.com/document/d/182Q_oWEJHvrs1GPHSFwY6V84kwXlLdzQVVDLxR8xcoQ/edit?usp=sharing" %}an internal project startup doc{% endPrivateLink %}.
 
 ## Keys to success
 
