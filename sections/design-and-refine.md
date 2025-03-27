@@ -131,11 +131,9 @@ What you’ll actually develop will vary from sprint to sprint, but it’s usual
 
 💡 **Tip:** Remember that people with different usability needs might access artifacts now or in the future. Diagrams and virtual whiteboards are informative, but should complement plain-language text analysis.
 
-### Checklist
-
-For the researcher, product and delivery manager (PDM), or other appropriate team member:
-
 {% Checklist %}
+For the researcher, product and delivery manager (PDM), or other appropriate team member:
+<br>
 - Identify which concepts would be best to visualize in order to tell the story you want
 - When possible, walk clients through potential artifacts so they can help identify what will appeal the most to the client
 - Create artifacts that the client has the ability to take action on (these can be informed by ongoing conversations with the client)
