@@ -34,7 +34,6 @@ Within each phase, you’ll find several "plays." Each play is a set of instruct
 
 Discovery sprints are fast-paced, fluid, and vary in scope. If you need to run plays in different orders or add your own, we encourage that. In fact, most sprints aren’t linear and go back and forth between phases — that’s OK!
 
-<!-- TODO: ADD LINKS to the "More resources" section -->
 💡 <b>Tip:</b> If you find an unfamiliar word — or you’re just looking for a specific template — jump to the <a href="/sections/more-resources/">More resources</a> section at the end of this playbook. In there, you’ll find words that are commonly used in discovery sprints, plus useful links.
 
 ## How to contribute
