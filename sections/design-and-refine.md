@@ -3,11 +3,6 @@ layout: layouts/section
 title: Design and refine
 ---
 
-In this section, we’ll go over how to:
-- Interpret, synthesize, and develop findings
-- Draft recommendations
-- Generate deliverables as a team
-
 ## Interpret, synthesize, and develop findings
 
 ### Overview
@@ -38,19 +33,17 @@ Here’s an example of turning a story into a solid recommendation:
 - **Story**: Kin caregivers that had legal support said how much of a positive difference it made and why
 - **Recommendation**: Develop partnerships to provide independent, affordable legal support to kin families
 
-Discuss the most impactful stories and themes into a collaborative space like Figjam. Use that as the base for drafting recommendations that are actionable and practical.
-
-### Checklist
-
-For the product and delivery manager (PDM) and engagement manager (EM):
+Use a collaborative space like Figjam to discuss the most impactful stories and themes. Use the stories and themes as a base for drafting recommendations that are actionable and practical.
 
 {% Checklist %}
+For the product and delivery manager (PDM) and engagement manager (EM):
+<br>
 - Build in enough time in the schedule to interpret, analyze, and synthesize the collected data. Typically hold 3 days to a week at a minimum for this.
 {% endChecklist %}
 
-For the researcher or PDM: 
-
 {% Checklist %}
+For the researcher or PDM: 
+<br>
 - Assign a point person to lead the synthesis process
 - Decide on the tools the team will use to synthesize data
 - Be intentional about making the synthesis process a collaborative effort with the team
@@ -58,13 +51,13 @@ For the researcher or PDM:
 - Verify if the recommendations overlap with or can get added to a current client program or service
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - Are you building in time as you go to interpret, analyze, and synthesize the data so you don't have to cram everything in at the end?
 - Are the themes and sub themes in the synthesis process clear?
 - Do your pulled notes, quotes, and summaries provide context? Or is there a risk that you’ll misinterpret the data? 
 - Are there any alternative explanations for the findings?
 - Are there any potential biases in the data to address?
+{% endKeyQuestions %}
 
 ## Draft recommendations
 
@@ -81,14 +74,14 @@ Recommendations turn your conclusions into meaningful actions and changes based 
 
 Use "<a href="https://www.designkit.org/methods/how-might-we.html" target="_blank" rel="noopener noreferrer">how might we</a>" questions as a prompt to turn insights into actions. This links your recommendations to the insights you’ve uncovered. You may want to take this further. Ideation workshops can hold space for big picture thinking. From there, you can rank solutions and implement constraints.
 
-To prioritize recommendations, consider which would have the biggest impact. Some ways to rank impact would be:
-- Ease or speed of implementation,
-- which pain points are addressed,
-- who or how many people benefit, 
+To prioritize recommendations, consider which would have the biggest impact. Here are some ways to rank impact:
+- Ease or speed of implementation
+- Which pain points are addressed
+- Who or how many people benefit 
 - What reduces the cost of delay of something continuing on as is
 - What resources the client has to act on suggestions near and longer term
 - What requires coordination between departments and what action are highly autonomous
-- what momentum can be generated.
+- What momentum can be generated
 
 Consider <a href="https://doteveryone.org.uk/project/consequence-scanning/" target="_blank" rel="noopener noreferrer">consequence scanning</a> to explore the intended and unintended consequences of recommendations.
 
@@ -100,24 +93,21 @@ Workshop draft recommendations with your client before you move onto final deliv
 
 #### More resources
 - <a href="https://docs.google.com/presentation/d/1ZqLmCTULwd_4q6tERoXWLHRw0xsRb14W/edit?usp=share_link&ouid=105196013299210443277&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Impact/effort matrix for prioritizing recommendations</a> 🔒
-- <a href="https://doteveryone.org.uk/project/consequence-scanning/" target="_blank" rel="noopener noreferrer">Consequence scanning manual</a>
-
-### Checklist
-
-For the researcher, or full sprint team:
 
 {% Checklist %}
+For the researcher, or full sprint team:
+<br>
 - Prioritize recommendations with an eye on impact and effort levels
 - Consider your design constraints and any client limitations to keep in mind
 - Get feedback on findings and emerging recommendations by workshopping ideas with the client
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - How can you turn the findings into actionable solutions?
 - What recommendations can the client implement immediately and what might be long-term future work?
 - What recommendations will deliver the highest impact?
 - What time, effort, resources, and expertise do the solutions require?
+{% endKeyQuestions %}
 
 ## Make your deliverables as a team
 
@@ -149,12 +139,12 @@ For the researcher, product and delivery manager (PDM), or other appropriate tea
 - Identify which concepts would be best to visualize in order to tell the story you want
 - When possible, walk clients through potential artifacts so they can help identify what will appeal the most to the client
 - Create artifacts that the client has the ability to take action on (these can be informed by ongoing conversations with the client)
-- Make sure artifacts are <a href="https://www.gsa.gov/policy-regulations/policy/information-technology-policy/it-accessibility-section-508" target="_blank" rel="noopener noreferrer">508</a> and/or <a href="https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines" target="_blank" rel="noopener noreferrer">WCAG</a> compliant
+- Make sure artifacts are accessible
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - Which findings and recommendations are central to the story you’re trying to tell?
 - What capabilities do you have on the team that’ll enable you to make certain artifacts?
 - What do you expect your client to do with the artifacts? What actions can they take?
 - What problems are you illuminating? Why are you illuminating them?
+{% endKeyQuestions %}

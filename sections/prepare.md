@@ -3,13 +3,6 @@ layout: layouts/section
 title: Prepare
 ---
 
-Often called “Week 0.” In this section, we’ll go over how to:
-<ul>
-    <li>Plan the sprint collaboratively with the client</li>
-    <li>Align the team on roles and expectations</li>
-    <li>Orient the team in an internal kickoff</li>
-</ul>
-
 ## Plan the sprint collaboratively with the client
 
 ### Overview
@@ -71,36 +64,35 @@ Share it with your client to make sure you all are in sync. In that same convers
     <li><a href="https://docs.google.com/document/d/1g3KEuT0kExSkgtTVXoaBmZg1telbb9ZzSZpEbmsgEsg/edit?tab=t.0#heading=h.u7kq0nga04r3" target="_blank" rel="noopener noreferrer">Project brief sample template</a></li>
 </ul>
 
-### Checklist
-For the product and delivery manager (PDM) or engagement manager (EM):
-
-<!-- TODO: Fix checklist sub-bullet spacing? -->
 {% Checklist %}
+For the product and delivery manager (PDM) or engagement manager (EM):
+<br>
 - Draft a project brief that includes:
+    <br>
     - Sprint challenge
     - Sprint goals
     - Anticipated timeline
     - Client collaboration and input expectations
+<br>
 - Identify key roles for the client
 {% endChecklist %}
 
-For the researchers:
-
 {% Checklist %}
+For the researchers:
+<br>
 - Start drafting the research plan and participant recruitment needs
 {% endChecklist %}
 
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br>
 - Get background material and related research from the client
 - Learn about other recent or existing projects to address the challenge or problem area
 - Identify responsibility gaps or areas of ambiguity to address before kickoff
 - Throughout the project, keep an eye out for goals that may need to be revised based on what the team learns
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 <ul>
     <li>Are there any gaps — however small! — in expectations about key aspects of the project?</li>
     <li>How much experience or understanding does the client have with human-centered and agile design methods?</li>
@@ -109,6 +101,7 @@ For the full sprint team:
     <li>How will the client support in recruiting participants?</li>
     <li>What are the assumptions baked into our project goals?</li>
 </ul>
+{% endKeyQuestions %}
 
 ## Align the team on roles and expectations
 
@@ -131,20 +124,19 @@ The roles and responsibilities on sprint teams typically look like this:
 - **Designer** — Translates findings into tangible, understandable products, services, or recommendations.
 - **Tech strategist** — Consults on tech, architecture, and builds prototypes.
 
-### Checklist
-
-For the EM:
-
 {% Checklist %}
+For the EM:
+<br>
 - Make sure the team lead and other members are clear on their role and ready to work collaboratively
 {% endChecklist %}
 
-### Key questions
+{% KeyQuestions %}
 <ul>
     <li>Do we need to use a decision-making or responsibility allocation framework? (<a href="https://www.atlassian.com/team-playbook/plays/daci" target="_blank" rel="noopener noreferrer">DACI</a> / <a href="https://asana.com/resources/raci-chart" target="_blank" rel="noopener noreferrer">RACI</a>)</li>
     <li>Are there any gaps in roles or experience to be aware of?</li>
     <li>Are there any client-side dynamics (hierarchal, political) to be sensitive to?</li>
 </ul>
+{% endKeyQuestions %}
 
 ## Orient the team in an internal kickoff
 
@@ -184,27 +176,25 @@ Discovery sprints follow agile methodology. Teams should be familiar with and ma
 
 These are all tools to help the team learn, iterate, and stay in sync. They also help the teams stay integrated, especially when people work remotely. Foster a culture of continuous learning and feedback by holding regular (weekly or every two week) team retros and making sure team members feel comfortable communicating. Don’t forget to make space for frequent kudos and celebrations!
 
-### Checklist
-
-For the product and delivery manager (PDM):
-
 {% Checklist %}
+For the product and delivery manager (PDM):
+<br>
 - Create and share onboarding guides
 - Set up and facilitate internal project kickoff
 - Prepare “user manuals” for the team to fill out
 - Decide on internal sprint tools with team members and agree on their use 
 {% endChecklist %}
 
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br>
 - Review the project brief and what we know about the project, problem statement, and client so far
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - What abilities and skills – including practice areas, languages, technologies - do you have that will help?
 - What are possible weaknesses?
 - What are your personal goals and hopes for how this project will run?
 - How will you pivot as a team?
 - What do you want to achieve and how will you measure success?
+{% endKeyQuestions %}

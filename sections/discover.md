@@ -3,10 +3,6 @@ layout: layouts/section
 title: Discover
 ---
 
-In this section, we’ll go over how to:
-- Be curious and collect data
-- Document learnings and share early and often
-
 ## Be curious and collect data
 
 ### Overview
@@ -19,7 +15,7 @@ Regardless of their role, all sprint team members can be involved in research in
 
 #### Get consent from the participant
 
-It's essential to have participants provide consent before conversing. Consent should be both verbal and written. Cross-check that the participant consents to the interview before starting the formal conversation. Some examples from previous projects include a <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_8wRx4ELeXTBAu7ink2ejcxanbqeW-2bHQgFnxd5se5mnXg/viewform" target="_blank" rel="noopener noreferrer">virtual interview consent form</a>.
+It's essential to have participants provide consent before conversing. Consent should be both verbal and written. Cross-check that the participant consents to the interview before starting the formal conversation. Some examples from previous projects include a <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDKNDCK_9mc3GKBy0ZeKnKeC5XHjg8WUzyvHHc0Ya83AvyvA/viewform" target="_blank" rel="noopener noreferrer">virtual interview consent form</a>.
 
 #### Record the session if you can
 
@@ -38,7 +34,7 @@ This is where your research planning starts to gain momentum. You are having dir
 
 #### Take good notes
 
-Ideally, you are working with another researcher so one of you can lead the discussion and the other one can take notes. If you are solo and the session is recorded then you can pull detailed notes after the session during review.
+Ideally, there are at least 2 sprint team members in the research session, so one person can lead the discussion and the other person can take notes. If you are solo and the session is recorded, you can skip notetaking during the session and pull detailed notes from the recording after the session.
 
 Remember to document what the participant thinks and says and not your interpretation of the problem space. How do they approach or experience a topic emotionally and intellectually? What non-verbal cues are conveyed in the conversation? What do you want to follow up on now or later through other research means?
 
@@ -62,19 +58,17 @@ It can be helpful to begin debriefs with 5 minutes of quiet reflection. This giv
 
 Keep your client updated about the status of interviews and roadblocks. The team should decide how to keep clients updated. This could be through emails, weekly or bi-weekly virtual meetings, Slack updates, or Mural logs.
 
-### Checklist
-
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br>
 - Decide how to assign interviewers and note-takers (this can rotate instead of being the same person each time!)
 - Discuss what note taking methods and approaches will be used during the sprint
 - Participate in debrief sessions
 {% endChecklist %}
 
-For the researcher (or person assigned to covering logistics):
-
 {% Checklist %}
+For the researcher (or person assigned to covering logistics):
+<br>
 - Create moderator’s guides for all audience groups
 - Conduct dry runs of the interviews, as needed (can have a team member pretend to be an interviewee)
 - Create a verbal consent script and a written consent form 
@@ -83,12 +77,12 @@ For the researcher (or person assigned to covering logistics):
 - Incorporate key research decisions in the agenda at one of the initial team meetings 
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - How will you maintain the confidentiality and privacy of the participants? 
 - What are potential biases in the research?
 - How will you address ethical issues that may arise while conducting research? 
 - How will you take care of yourself and fellow researchers, particularly when difficult topics arise in interviews?
+{% endKeyQuestions %}
 
 ## Document learnings and share early and often
 
@@ -109,26 +103,24 @@ Here are some ways to share learnings:
 - <a href="https://drive.google.com/file/d/1MmHCaJ_i6kWxu-63lAmNtFs7ix5Wk13r/view" target="_blank" rel="noopener noreferrer">Debrief framework</a>
 - Weekly update with insights
 
-### Checklist
-
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br>
 - While debriefing after interviews, document highlightable quotes, questions, and early ideas or hunches
 - Document and take notes or sketches of your early ideas and ways your knowledge of the problem is growing
 {% endChecklist %}
 
-For the researcher, product and delivery manager (PDM), or other assigned role:
-
 {% Checklist %}
+For the researcher, product and delivery manager (PDM), or other assigned role:
+<br>
 - Schedule regular sprint team debriefs on a daily or weekly basis
 - Set up and manage platforms and tools for ongoing documentation of learnings 
 - Provide the client with regular updates about the data as it is being gathered (like weekly updates), don’t hold all your learnings for the end of the project!
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - How is your understanding of the problem space evolving? 
 - What trends are you seeing? 
 - Are you talking to the right people and asking the right questions? Do you need to adjust your approaches and questions to understand the problem?
-- What ideas or hypotheses are developing about the problem space? 
+- What ideas or hypotheses are developing about the problem space?
+{% endKeyQuestions %}

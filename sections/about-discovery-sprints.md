@@ -3,11 +3,11 @@ layout: layouts/section
 title: About discovery sprints
 ---
 
-## What's a discovery sprint?
-
 A discovery sprint is a time-bound, deep-dive investigation into a challenge or problem. Discovery sprints are conducted by a skilled and often cross-functional team. This work can be done in any sector, though at Bloom we most often partner with government agencies. The sprint team works with our client organization to learn about a problem or system. We bring expertise and a set of fresh eyes.
 
 <b>The goal of a discovery sprint is to create a shared understanding with the client and make actionable recommendations. We’re not solving the challenge in this time frame.</b>
+
+## Overview
 
 Discovery sprints are iterative and responsive in nature. They may not follow a direct, consistent path. There are some activities that occur in most, if not all, discovery sprints:
 
@@ -18,7 +18,7 @@ Discovery sprints are iterative and responsive in nature. They may not follow a 
     <li>What the team finds and recommends is as important as how the team tells the story. A well-crafted narrative and artifacts like journey maps and technical diagrams show what the team learned.</li>
 </ul>
 
-### Who's involved
+## Who's involved
 
 Throughout this playbook, we reference a few key groups of people.
 
@@ -54,7 +54,7 @@ At Bloom, these are some common types of discovery sprints we do:
         <li><b>Example:</b> <a href="https://bloomworks.digital/washington-state-behavioral-health-strategic-plan-for-children-and-youth/" target="_blank" rel="noopener noreferrer">Can ground-level research inform the development of strategy and policy at scale?</a></li>
     </ul>
 </ul>
-<!-- New lists for bullets so there is good spacing on page (remove bullets) -->
+<!-- New lists for bullets so there is good spacing on page -->
 <ul>
     <li>A service or program is not performing well, and the client wants to diagnose problems and provide a pathway to improvement—especially in complex program ecosystems</li>
     <ul>
@@ -82,7 +82,6 @@ Every sprint will be a bit different. <b>This section shows typical milestones d
 
 Adjust the timing of your milestones to fit the length and scale of your sprint engagement. Be aware there are always factors that will impact your timing. Some common ones: a large research participant pool, multiple participant groups, or hard-to-reach participants. Or, a project may be longer because it includes more than one research track.
 
-<!-- TODO: Fix spacing on table -->
 <table>
   <tbody>
     <!-- ROW ONE -->
@@ -101,49 +100,55 @@ Adjust the timing of your milestones to fit the length and scale of your sprint 
     <tr>
         <!-- COLUMN ONE -->
         <td>
-            <ul>
-                <li>Identify team and task leads</li>
-                <li>Review scope and timeframes</li>
-                <li>Team alignment and ritual setting</li>
-                <li>Internal kickoff</li>
-                <li>Prepare for research participant recruitment</li>
-            </ul>
+            Identify team and task leads
+            <br><br>
+            Review scope and timeframes
+            <br><br>
+            Team alignment and ritual setting
+            <br><br>
+            Internal kickoff
+            <br><br>
+            Prepare for research participant recruitment
         </td>
         <!-- COLUMN TWO -->
         <td>
-            <ul>
-                <li>Sprint kickoff with the client</li>
-                <li>Dive into and define the problem space</li>
-                <li>Identify audiences, methods, and recruitment for research</li>
-                <li>Write the research plan</li>
-                <li>Begin participant recruitment</li>
-            </ul>
+            Sprint kickoff with the client
+            <br><br>
+            Dive into and define the problem space
+            <br><br>
+            Identify audiences, methods, and recruitment for research
+            <br><br>
+            Write the research plan
+            <br><br>
+            Begin participant recruitment
         </td>
         <!-- COLUMN THREE -->
         <td>
-            <ul>
-                <li>Conduct interviews and other research activities</li>
-                <li>Analyze data</li>
-                <li>Start to synthesize findings</li>
-            </ul>
+            Conduct interviews and other research activities
+            <br><br>
+            Analyze data
+            <br><br>
+            Start to synthesize findings
         </td>
         <!-- COLUMN FOUR -->
         <td>
-            <ul>
-                <li>Finish synthesis and form conclusions</li>
-                <li>Draft recommendations</li>
-                <li>Draft final report</li>
-                <li>Put pen to paper — design visuals and products to deliver with the final report</li>
-            </ul>
+            Finish synthesis and form conclusions
+            <br><br>
+            Draft recommendations
+            <br><br>
+            Draft final report
+            <br><br>
+            Put pen to paper — design visuals and products to deliver with the final report
         </td>
         <!-- COLUMN FIVE -->
         <td>
-            <ul>
-                <li>Present findings and recs to the client</li>
-                <li>Deliver all files</li>
-                <li>Close out project</li>
-                <li>Final team retro</li>
-            </ul>
+            Present findings and recs to the client
+            <br><br>
+            Deliver all files
+            <br><br>
+            Close out project
+            <br><br>
+            Final team retro
         </td>
     </tr>
   </tbody>
@@ -183,7 +188,6 @@ It is common for collecting data during the discovery phase to eclipse the effor
 
 Everyone has different needs, work styles, and approaches — embrace it! Take the time to learn about each other and how to work together. Set up semi-regular activities (like ice breakers or casual coffee chats) and devoted time to debrief, reflect, and connect.
 
-<!-- TODO: check if the below is a H3 or H2 - see comment in doc -->
 ### Working with with diverse and marginalized populations
 We aim to center the needs of people who rely on government services. This is a foundational part of our discovery sprint practice. Participants (people we interview, survey, or “co-design” with) may include people who have been disadvantaged by unfair systems and structures. 
 

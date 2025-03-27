@@ -3,12 +3,6 @@ layout: layouts/section
 title: Define
 ---
 
-In this section, we’ll go over how to:
-- Kick off the project with the client
-- Dive into the problem space
-- Develop the research plan and supporting materials
-- Begin recruiting research participants
-
 ## Kick off the project with the client
 
 ### Overview
@@ -30,29 +24,27 @@ To reduce these risks, consider some of these well-designed activities:
 - **Collaboratively map out key stakeholders** — who they are and how to engage with them
 - Conduct a **pre-mortem** exercise where we’ll imagine that the project has failed and explore all the reasons why, as a way to identify key risks we need to manage
 
-### Checklist
-
-For the product and delivery manager (PDM):
-
 {% Checklist %}
+For the product and delivery manager (PDM):
+<br>
 - Set up and facilitate client kickoff and brainstorming activities
 - Identify any other connected efforts and teams (for example business process work, tech modernization efforts), and how they might affect the clients’ bandwidth
 - Follow up after the kickoff to check in with the executive sponsor or the sprint champion about their endorsement of this effort and commitment to the timeline and goals
 - Make sure the team has access to the clients’ tools and ecosystem
 {%- endChecklist -%}
 
-For the full sprint team:
-
 {% Checklist %}
+For the full sprint team:
+<br>
 - Identify stakeholders, roles, and power dynamics that will affect this sprint and its outcomes
 - Identify risks and blockers in a pre-mortem exercise
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - How are you going to involve different stakeholders during the sprint?
 - Does the client already have a solution in mind?
 - How much does the client want to be involved? Do they want to learn how to do this work themselves? This might look like “ride-alongs” to experience Bloom’s work approach and learn about human-centered design and agile methodologies (for example they could observe an interview or view how some artifacts are created).
+{% endKeyQuestions %}
 
 ## Dive into the problem space
 
@@ -146,35 +138,33 @@ You may set out with an initial list of participants and, after a couple of conv
     <li><a href="https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" target="_blank" rel="noopener noreferrer">How to do user research at Bloom Works</a> 🔒</li>
 </ul>
 
-### Checklist
-
-For the product and delivery manager (PDM):
-
 {% Checklist %}
+For the product and delivery manager (PDM):
+<br>
 - Assess how involved clients want to be in the research planning and bring them in
 - Develop timelines and milestones for the research plan
-{%- endChecklist -%}
-
-For the researcher:
+{% endChecklist %}
 
 {% Checklist %}
+For the researcher:
+<br>
 - Draft research plan and get feedback from the team
 - Get approval from the client on research plan (or key highlights)
-{%- endChecklist -%}
-
-For the full sprint team:
+{% endChecklist %}
 
 {% Checklist %}
+For the full sprint team:
+<br>
 - Align on key areas such as problem statement, sprint goals, expected outcomes, and success criteria for research
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - What are your hypotheses and research questions?
 - What level of involvement has the client requested regarding the research plan? For example: hands-off, contribute, review, view, approve, etc.?  
 - Which team members should be part of drafting and reviewing the research plan, and what are their roles? 
 - Will you be able to recruit the right research participants in a timely manner?
 - Will you need to conduct research in person? (If so, you’ll want to incorporate sourcing and planning time)
+{% endKeyQuestions %}
 
 ### Begin recruiting research participants
 
@@ -227,14 +217,13 @@ To help mitigate this, you can create distinct links for different parties distr
 - <a href="https://forms.gle/ACRGdVg3Fqjnk71H7" target="_blank" rel="noopener noreferrer">Example consent form-online format from a Bloom project</a>
 - <a href="https://medium.com/pollinator/trauma-informed-research-co-designing-with-research-participants-9c0146dada17" target="_blank" rel="noopener noreferrer">Trauma-informed co-design approaches</a>
 
-### Checklist
-
-For the researcher (with assistance from product and delivery manager and other teammates):
-
 {% Checklist %}
+For the researcher (with assistance from product and delivery manager and other teammates):
+<br>
 - Define recruitment strategies, timeline, and client involvement
 - Outline recruitment criteria and create a screener form if needed
 - Determine if you need consent forms, NDAs, or ethics approvals
+    <br>
     - Consider data privacy regulations and guidelines that the project might have to adhere to, such as <a href="https://oag.ca.gov/privacy/ccpa" target="_blank" rel="noopener noreferrer">CCPA</a> or <a href="https://gdpr-info.eu/" target="_blank" rel="noopener noreferrer">GDPR</a>.
 - Set up logistics for compensation
 - Draft recruitment communication materials
@@ -243,10 +232,10 @@ For the researcher (with assistance from product and delivery manager and other 
 - Set appropriate permissions and access levels for research tools
 {% endChecklist %}
 
-### Key questions
-
+{% KeyQuestions %}
 - Which groups of participants are most affected by the problem you’re researching? How can you learn more about the problem space from them? 
 - When will the data collection happen? 
 - Does the team need translation services or other accessibility needs?
 - Which participants will you compensate and which ones can’t be compensated? 
 - Do you need to set up accounts for recruitment (like Google Voice number so you don’t have to provide your personal cell phone number) or for paying participant incentives (like <a href="https://www.perfectgift.com/corporate" target="_blank" rel="noopener noreferrer">PerfectGift</a> or <a href="https://cash.app/" target="_blank" rel="noopener noreferrer">Cash App</a>)?
+{% endKeyQuestions %}
