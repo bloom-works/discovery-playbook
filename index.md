@@ -40,6 +40,6 @@ Discovery sprints are fast-paced, fluid, and vary in scope. If you need to run p
 
 This playbook is by no means exhaustive or set in stone. We chose the “playbook” format because it’s flexible and customizable.
 
-We expect this playbook to expand and change as more people use it and provide feedback. So, if you learn something in your own sprints that you don’t see here, let us know! You can contact us at <a href="mailto:hello@bloomworks.digital">hello@bloomworks.digital</a>.
+We expect this playbook to expand and change as more people use it and provide feedback. So, if you learn something in your own sprints that you don’t see here, let us know! **You can contact us at <a href="mailto:hello@bloomworks.digital">hello@bloomworks.digital</a>.**
 
 You can also suggest a correction or recommendation by <a href="https://github.com/bloom-works/discovery-playbook/pulls" target="_blank" rel="noopener noreferrer">opening a pull request</a>.

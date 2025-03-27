@@ -130,7 +130,7 @@ Seek out other opportunities to share with the wider community. This could be a 
 
 #### More resources
 
-- <a href="https://docs.google.com/spreadsheets/d/1ZYsZhuD0aMyovkw5JV7MEOrkFJ8KFvkq4C9RNKZqCY4/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Project closeout checklist template</a> 🔒
+- {% PrivateLink "https://docs.google.com/spreadsheets/d/1ZYsZhuD0aMyovkw5JV7MEOrkFJ8KFvkq4C9RNKZqCY4/edit?gid=0#gid=0" %}Project closeout checklist template{% endPrivateLink %}
 
 {% Checklist %}
 For the full sprint team:

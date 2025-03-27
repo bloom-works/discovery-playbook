@@ -47,11 +47,11 @@ We’ve kept the definitions short for simplicity, but many of these terms are c
 - <a href="https://www.lean.org/lexicon-terms/5-whys/" target="_blank" rel="noopener noreferrer">Five Whys</a> — Repeatedly ask “why” to identify a root cause
 - <a href="https://www.nngroup.com/articles/how-might-we-questions/" target="_blank" rel="noopener noreferrer">How-Might-We questions</a> — A way to frame questions to unlock direction
 - <a href="https://miro.com/miroverse/problem-framing-workshop/" target="_blank" rel="noopener noreferrer">Miro problem framing workshop</a> — Engage stakeholders in framing the problem
-- <a href="https://docs.google.com/document/d/15hB3fN7HR-EwHiDtRHsEZhd3LIUQgMmvM_VeGlgOKvw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Scoping tactics</a> 🔒 — Tips to try when scoping is hard
+- {% PrivateLink "https://docs.google.com/document/d/15hB3fN7HR-EwHiDtRHsEZhd3LIUQgMmvM_VeGlgOKvw/edit?usp=sharing" %}Scoping tactics{% endPrivateLink %} — Tips to try when scoping is hard
 
 ### For discovering
 
-- <a href="https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" target="_blank" rel="noopener noreferrer">How to do user research at Bloom Works</a> 🔒 — Bloom-internal examples and templates for user research 
+- {% PrivateLink "https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" %}How to do user research at Bloom Works{% endPrivateLink %} — Bloom-internal examples and templates for user research
 - <a href="https://docs.google.com/document/d/1q68jx0lxmM5WdSbxf30Q4arnD3IpnaZyLF_jUUWB2NM/edit?tab=t.0#heading=h.ogw8hc293o1t" target="_blank" rel="noopener noreferrer">Example research plan</a> — A template for designing a research plan
 - <a href="https://medium.com/pollinator/trauma-informed-research-co-designing-with-research-participants-9c0146dada17" target="_blank" rel="noopener noreferrer">Co-designing with research participants</a> — Learn how we practice co-designing with a trauma-informed approach
 - <a href="https://drive.google.com/file/d/1MmHCaJ_i6kWxu-63lAmNtFs7ix5Wk13r/view" target="_blank" rel="noopener noreferrer">Debriefing framework</a> — A template for debriefing after interviews
