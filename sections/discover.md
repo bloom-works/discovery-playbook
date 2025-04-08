@@ -58,15 +58,14 @@ It can be helpful to begin debriefs with 5 minutes of quiet reflection. This giv
 
 Keep your client updated about the status of interviews and roadblocks. The team should decide how to keep clients updated. This could be through emails, weekly or bi-weekly virtual meetings, Slack updates, or Mural logs.
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full team %}
 <br>
 - Decide how to assign interviewers and note-takers (this can rotate instead of being the same person each time!)
 - Discuss what note taking methods and approaches will be used during the sprint
 - Participate in debrief sessions
 {% endChecklist %}
 
-{% Checklist %}
+{% Checklist for researcher %}
 For the researcher (or person assigned to covering logistics):
 <br>
 - Create moderator’s guides for all audience groups
@@ -103,14 +102,14 @@ Here are some ways to share learnings:
 - <a href="https://drive.google.com/file/d/1MmHCaJ_i6kWxu-63lAmNtFs7ix5Wk13r/view" target="_blank" rel="noopener noreferrer">Debrief framework</a>
 - Weekly update with insights
 
-{% Checklist %}
+{% Checklist for full team %}
 For the full sprint team:
 <br>
 - While debriefing after interviews, document highlightable quotes, questions, and early ideas or hunches
 - Document and take notes or sketches of your early ideas and ways your knowledge of the problem is growing
 {% endChecklist %}
 
-{% Checklist %}
+{% Checklist for researcher or team %}
 For the researcher, product and delivery manager (PDM), or other assigned role:
 <br>
 - Schedule regular sprint team debriefs on a daily or weekly basis
