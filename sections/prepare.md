@@ -64,8 +64,7 @@ Share it with your client to make sure you all are in sync. In that same convers
     <li><a href="https://docs.google.com/document/d/1g3KEuT0kExSkgtTVXoaBmZg1telbb9ZzSZpEbmsgEsg/edit?tab=t.0#heading=h.u7kq0nga04r3" target="_blank" rel="noopener noreferrer">Project brief sample template</a></li>
 </ul>
 
-{% Checklist %}
-For the product and delivery manager (PDM) or engagement manager (EM):
+{% Checklist for PDM or EM %}
 <br>
 - Draft a project brief that includes:
     <br>
@@ -77,14 +76,12 @@ For the product and delivery manager (PDM) or engagement manager (EM):
 - Identify key roles for the client
 {% endChecklist %}
 
-{% Checklist %}
-For the researchers:
+{% Checklist for researcher %}
 <br>
 - Start drafting the research plan and participant recruitment needs
 {% endChecklist %}
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full sprint team %}
 <br>
 - Get background material and related research from the client
 - Learn about other recent or existing projects to address the challenge or problem area
@@ -124,8 +121,7 @@ The roles and responsibilities on sprint teams typically look like this:
 - **Designer** — Translates findings into tangible, understandable products, services, or recommendations.
 - **Tech strategist** — Consults on tech, architecture, and builds prototypes.
 
-{% Checklist %}
-For the EM:
+{% Checklist for EM %}
 <br>
 - Make sure the team lead and other members are clear on their role and ready to work collaboratively
 {% endChecklist %}
@@ -176,8 +172,7 @@ Discovery sprints follow agile methodology. Teams should be familiar with and ma
 
 These are all tools to help the team learn, iterate, and stay in sync. They also help the teams stay integrated, especially when people work remotely. Foster a culture of continuous learning and feedback by holding regular (weekly or every two week) team retros and making sure team members feel comfortable communicating. Don’t forget to make space for frequent kudos and celebrations!
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for PDM %}
 <br>
 - Create and share onboarding guides
 - Set up and facilitate internal project kickoff
@@ -185,8 +180,7 @@ For the product and delivery manager (PDM):
 - Decide on internal sprint tools with team members and agree on their use 
 {% endChecklist %}
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full team %}
 <br>
 - Review the project brief and what we know about the project, problem statement, and client so far
 {% endChecklist %}
