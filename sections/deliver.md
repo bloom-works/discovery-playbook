@@ -22,15 +22,14 @@ Start with your goals for the presentation to get people aligned on what you’r
 
 - <a href="https://www.springfield-ma.gov/dr/fileadmin/community_dev/DR/Communication-Findings-and-Recommendations_2021.06.16.pdf" target="_blank" rel="noopener noreferrer">Key findings and recommendations for Springfield, Massachusetts (sample presentation)</a>
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for PDM %}
 <br>
 - Identify key stakeholders, for example those who could be involved in future phases of work that follow the discovery phase (like implementation)
 - Pre-schedule the presentation to make sure the client and key stakeholders can attend: aim for 60-90 minutes
 - Schedule a dry run with the team to nail down hand offs, timing, and presentation flow
 {% endChecklist %}
 
-{% Checklist %}
+{% Checklist for researcher %}
 For the researcher or person presenting the deliverable:
 <br>
 - Leverage tools to best convey your story — it may be a slide deck, but it could be live prototypes or videos
@@ -60,15 +59,14 @@ Decide with your client on where things should live on their drives **before** t
 
 This is also a good time to create and share a participant memo with all those who talked to us. The memo details our key findings, recommendations, and next steps. This memo is very important to us, as it allows for us to be transparent with those who made our research possible.
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for the PDM %}
 <br>
 - Agree with the client ahead of time on where final artifacts and documents will live
 - Double-check that PII is not included in deliverables
 - Make sure clients actually test their login and access so they are sure they can access everything they need 
 {% endChecklist %}
 
-{% Checklist %}
+{% Checklist for the researcher %}
 For the researcher or the owner of the deliverable:
 <br>
 - Retitle documents so it’s clear what they are, and remove any confusing or extraneous information from the filename (like COPY OF or — REV3, for example)
@@ -105,8 +103,7 @@ Depending on the size of the team, dynamics, and challenges faced throughout the
 
 💡 **Tip:** Remember to highlight the wins. And talk about why and what you could learn from them.
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for the PDM %}
 <br>
 - Hold a retro with the full team. Have someone not on the project facilitate if they can.
 - With the engagement manager (EM), synthesize the retro to identify how to take forward the learnings and action items.
@@ -132,16 +129,13 @@ Seek out other opportunities to share with the wider community. This could be a 
 
 - {% PrivateLink "https://docs.google.com/spreadsheets/d/1ZYsZhuD0aMyovkw5JV7MEOrkFJ8KFvkq4C9RNKZqCY4/edit?gid=0#gid=0" %}Project closeout checklist template{% endPrivateLink %}
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for the team %}
 <br>
 - If you have sensitive data or files, make sure they are free from PII
 - Identify ways to reflect on the work and share lessons learned
 {% endChecklist %}
 
-{% Checklist %}
-For the engagement manager (EM), with assistance from the product and delivery manager (PDM) and team:
-<br>
+{% Checklist for the EM and team %}
 - Make sure your internal storage method has all final draft deliverables and key project documents that you have permission to save. All documents should have a clear and identifiable file naming convention.
 - Seek written confirmation from the client that you have met all contractual deliverables.
 {% endChecklist %}
