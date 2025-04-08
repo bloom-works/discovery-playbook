@@ -24,8 +24,7 @@ To reduce these risks, consider some of these well-designed activities:
 - **Collaboratively map out key stakeholders** — who they are and how to engage with them
 - Conduct a **pre-mortem** exercise where we’ll imagine that the project has failed and explore all the reasons why, as a way to identify key risks we need to manage
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for PDM %}
 <br>
 - Set up and facilitate client kickoff and brainstorming activities
 - Identify any other connected efforts and teams (for example business process work, tech modernization efforts), and how they might affect the clients’ bandwidth
@@ -33,8 +32,7 @@ For the product and delivery manager (PDM):
 - Make sure the team has access to the clients’ tools and ecosystem
 {%- endChecklist -%}
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full team %}
 <br>
 - Identify stakeholders, roles, and power dynamics that will affect this sprint and its outcomes
 - Identify risks and blockers in a pre-mortem exercise
@@ -86,8 +84,7 @@ Discovery sprints involve a lot of set-up work. This is because **a well-defined
 - Strikes a balance between being actionable and specific, while being open-ended and aspirational. For example: "how might we help residents compost more" rather than "how might our city become zero-waste"; and
 - Is open to change based on what we learn.
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full team %}
 <br />
 - Stay curious
 - Align on a shared understanding of the problem space
@@ -136,22 +133,19 @@ You may set out with an initial list of participants and, after a couple of conv
 - <a href="https://docs.google.com/document/d/1q68jx0lxmM5WdSbxf30Q4arnD3IpnaZyLF_jUUWB2NM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Example research plan</a>
 - {% PrivateLink "https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" %}How to do user research at Bloom Works{% endPrivateLink %}
 
-{% Checklist %}
-For the product and delivery manager (PDM):
+{% Checklist for PDM %}
 <br>
 - Assess how involved clients want to be in the research planning and bring them in
 - Develop timelines and milestones for the research plan
 {% endChecklist %}
 
-{% Checklist %}
-For the researcher:
+{% Checklist for researcher %}
 <br>
 - Draft research plan and get feedback from the team
 - Get approval from the client on research plan (or key highlights)
 {% endChecklist %}
 
-{% Checklist %}
-For the full sprint team:
+{% Checklist for full team %}
 <br>
 - Align on key areas such as problem statement, sprint goals, expected outcomes, and success criteria for research
 {% endChecklist %}
@@ -215,7 +209,7 @@ To help mitigate this, you can create distinct links for different parties distr
 - <a href="https://forms.gle/ACRGdVg3Fqjnk71H7" target="_blank" rel="noopener noreferrer">Example consent form-online format from a Bloom project</a>
 - <a href="https://medium.com/pollinator/trauma-informed-research-co-designing-with-research-participants-9c0146dada17" target="_blank" rel="noopener noreferrer">Trauma-informed co-design approaches</a>
 
-{% Checklist %}
+{% Checklist for researcher and team %}
 For the researcher (with assistance from product and delivery manager and other teammates):
 <br>
 - Define recruitment strategies, timeline, and client involvement
