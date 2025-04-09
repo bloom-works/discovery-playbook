@@ -63,14 +63,14 @@ For the researcher or PDM:
 
 ### Overview
 
-Recommendations turn your conclusions into meaningful actions and changes based on your findings. Think about the gaps or pain points you found. Do any of them offer an opportunity for the client to make positive and actionable changes? The types of recommendations you develop might include (but not be limited to):
-- building new tech solutions; 
-- redesigning content on a website; 
-- organizational change on internal or external processes; 
-- augmenting staffing or contracts;
-- advocating for policy changes;
-- collaborating or connecting with certain stakeholders; or
-- enabling data collection to better understand problems, bottlenecks, and performance.
+Recommendations turn your conclusions into meaningful actions and changes based on your findings. Think about the gaps or pain points you found. Do any of them offer an opportunity for the client to make positive and actionable changes? The types of recommendations you develop might include (but not be limited to) these approaches:
+- Building new tech solutions 
+- Redesigning content on a website 
+- Organizational change on internal or external processes 
+- Augmenting staffing or contracts
+- Advocating for policy changes
+- Collaborating or connecting with certain stakeholders
+- Enabling data collection to better understand problems, bottlenecks, and performance
 
 Use "<a href="https://www.designkit.org/methods/how-might-we.html" target="_blank" rel="noopener noreferrer">how might we</a>" questions as a prompt to turn insights into actions. This links your recommendations to the insights you’ve uncovered. You may want to take this further. Ideation workshops can hold space for big picture thinking. From there, you can rank solutions and implement constraints.
 
@@ -120,13 +120,13 @@ Remember, we’re not delivering a definitive answer as a result of a discovery 
 
 Your final deliverables will typically consist of a few different elements. This could include documents, slide decks, or individual graphics. We refer to these as “artifacts” or “assets” that are combined into a single “deliverable.”
 
-Typical deliverables generated during a discovery sprint can include:
-- A sprint report, including an executive summary;
-- A slide deck that you’ll present;
-- Maps (for example service, tech, or journey maps) and diagrams (technical flows, process flows);
-- Competitive analysis;
-- User archetypes;
-- Lightweight prototypes and wireframes (if you're making a product recommendation).
+These are some typical deliverables you might generate during a discovery sprint:
+- A sprint report, including an executive summary
+- A slide deck that you’ll present
+- Maps (for example service, tech, or journey maps) and diagrams (technical flows, process flows)
+- Competitive analysis
+- User archetypes
+- Lightweight prototypes and wireframes (if you're making a product recommendation)
 
 What you’ll actually develop will vary from sprint to sprint, but it’s usually some combination of the above.
 
