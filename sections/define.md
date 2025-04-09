@@ -79,12 +79,12 @@ At this stage you also want to make sure you have an organized way to capture an
 #### A well-defined problem statement
 
 Discovery sprints involve a lot of set-up work. This is because **a well-defined problem statement is the difference between a successful sprint and just talking to people**. You’re spending time defining the north star (albeit, one that could shift) that will guide your sprint activities. A well-defined problem:
-- Focuses on humans at the center (both users AND staff);
-- Provokes curiosity for more exploration and (eventual) solutioning (“How might we…” questions are great at this);
-- Focuses on the challenge, not on the solution (i.e., "How might we implement X" is NOT a good problem statement);
-- Expresses insight and perspective about what is difficult or challenging right now, not generally;
-- Strikes a balance between being actionable and specific, while being open-ended and aspirational. For example: "how might we help residents compost more" rather than "how might our city become zero-waste"; and
-- Is open to change based on what we learn.
+- Focuses on humans at the center (both users AND staff)
+- Provokes curiosity for more exploration and (eventual) solutioning (“How might we…” questions are great at this)
+- Focuses on the challenge, not on the solution (i.e., "How might we implement X" is NOT a good problem statement)
+- Expresses insight and perspective about what is difficult or challenging right now, not generally
+- Strikes a balance between being actionable and specific, while being open-ended and aspirational (for example: "how might we help residents compost more" rather than "how might our city become zero-waste")
+- Is open to change based on what we learn
 
 {% Checklist %}
 For the full sprint team:
@@ -176,13 +176,13 @@ It’s often easier to arrange time to interview stakeholders and internal users
 
 The difficulty of reaching participants and how you connect with them will drive the time, effort, and budget you need for recruitment. Getting participants scheduled can take time, and require approvals and follow-ups. That's especially true if you can't connect with them directly. Consider the drop-out and take-up rate you expect for your population when setting timelines. It can also be helpful to create contingency plans ahead of time in case you aren’t able to get the number of participants you need. Build all these considerations and potential blockers into project timelines. 
 
-It's helpful to assign 1 to 2 team members to manage your participant logistics. That includes monitoring:
-- recruitment,
-- participation,
-- communication,
-- scheduling,
-- sending out compensation, and
-- any follow ups.
+It's helpful to assign 1 to 2 team members to manage your participant logistics. That includes monitoring these things:
+- Recruitment
+- Participation
+- Communication
+- Scheduling
+- Sending out compensation
+- Any follow-ups
 
 These team members will also need to juggle the team’s schedules to make sure everyone has an opportunity to participate.
 
