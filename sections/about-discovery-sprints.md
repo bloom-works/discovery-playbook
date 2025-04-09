@@ -93,9 +93,9 @@ Adjust the timing of your milestones to fit the length and scale of your sprint 
         <!-- COLUMN THREE -->
         <th><b>Weeks 2 to 3: Discover</b></th>
         <!-- COLUMN FOUR -->
-        <th><b>Weeks 2 to 3: Discover</b></th>
+        <th><b>Weeks 4 to 5: Design & refine</b></th>
         <!-- COLUMN FIVE -->
-        <th><b>Weeks 2 to 3: Discover</b></th>
+        <th><b>Weeks 6: Deliver</b></th>
     <!-- ROW TWO -->
     <tr>
         <!-- COLUMN ONE -->
