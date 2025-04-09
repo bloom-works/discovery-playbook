@@ -9,12 +9,12 @@ title: Deliver
 
 Ideally, you have been keeping your client informed throughout the sprint.The final presentation, however, is your opportunity to tell your story to clients and external stakeholders. This is a time to discuss what you’ve learned, get aligned on next steps, and to help clients maintain momentum after you've moved on. We often record this presentation, and offer it as a deliverable.
 
-The presentation should cover:
-- the problem statement,
-- how you addressed it,
-- what you found in your discovery research and your conclusions,
-- how you came to your conclusions, and
-- your recommendations for next steps (and what is required to make the recommendations happen).
+The presentation should cover these things:
+- The problem statement
+- How you addressed the problem statement
+- What you found in your discovery research and your conclusions
+- How you came to your conclusions
+- Your recommendations for next steps (and what is required to make the recommendations happen)
 
 Start with your goals for the presentation to get people aligned on what you’re going to cover. Center the people involved in your research by sharing stories and quotes that reinforce your message. Showing is always more powerful than telling.
 
