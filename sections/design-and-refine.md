@@ -19,9 +19,9 @@ Data synthesis is an iterative process. You may need multiple rounds of analysis
 
 Some clients may prefer to stay hands-off or just want to read your insights. Others may want to take part in data analysis. In general, involve clients if possible. Their real-time feedback can help inform your deliverables. However, follow your documented decisions around protecting and anonymizing participant information. Your research subjects were honest with you, and you want to protect their privacy.
 
-Typical synthesis frameworks include:
+These are some typical synthesis frameworks:
 - Analyzing data to answer your research questions
-- Identifying and prioritizing  pain points and moments that matter
+- Identifying and prioritizing pain points and moments that matter
 - Identifying strengths to build on; what is working?
 - Documenting policy requirements
 - Mapping user experiences through journey maps, mapping  processes and creating service blueprints, diagramming technical architecture, mapping stakeholders
