@@ -12,7 +12,7 @@ For background on what a discovery sprint is, example scenarios and timelines, a
 <!-- TODO: Style header 3 to look more different than header 2 -->
 ### Phases
 
-Next, you’ll find 5 sections (or phases), just like a discovery sprint:
+After the background information, you’ll find 5 sections (or phases), just like a discovery sprint:
 
 <ul>
     <li><a href="/sections/prepare/">Prepare</a> -- Get everything you need to prepare for a sprint, leading up to kickoff.</li>
@@ -38,8 +38,8 @@ Discovery sprints are fast-paced, fluid, and vary in scope. If you need to run p
 
 ## How to contribute
 
-This playbook is by no means exhaustive or set in stone. We chose the “playbook” format because it’s flexible and customizable.
+This playbook is by no means exhaustive or set in stone. We expect this playbook to expand and change as more people use it and provide feedback. You can suggest a recommendation or correction by <a href="https://github.com/bloom-works/discovery-playbook/pulls" target="_blank" rel="noopener noreferrer">opening a pull request</a> or sending us an email.
 
-We expect this playbook to expand and change as more people use it and provide feedback. So, if you learn something in your own sprints that you don’t see here, let us know! **You can contact us at <a href="mailto:hello@bloomworks.digital">hello@bloomworks.digital</a>.**
+## How to contact us
 
-You can also suggest a correction or recommendation by <a href="https://github.com/bloom-works/discovery-playbook/pulls" target="_blank" rel="noopener noreferrer">opening a pull request</a>.
+Want to talk more about discovery sprints? **Contact us at <a href="mailto:hello@bloomworks.digital">hello@bloomworks.digital</a>.**

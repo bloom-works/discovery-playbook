@@ -38,21 +38,21 @@ Ideally, there are at least 2 sprint team members in the research session, so on
 
 Remember to document what the participant thinks and says and not your interpretation of the problem space. How do they approach or experience a topic emotionally and intellectually? What non-verbal cues are conveyed in the conversation? What do you want to follow up on now or later through other research means?
 
-It's important to decide as a team on your note-taking approach during research. Picking the same note-taking method as a team will make it easier to compare and review research. Some note-taking methods include:
-- Bullet form in a document,
-- group note-taking in a collaborative document (like Google Docs),
-- narrative form in a document,
-- post-it notes on an online whiteboarding tool (like Figjam), or
-spreadsheets for structured interviews or usability tests.
+It's important to decide as a team on your note-taking approach during research. Picking the same note-taking method as a team will make it easier to compare and review research. These are some options:
+- Bullet form in a document
+- Group note-taking in a collaborative document (like Google Docs)
+- Narrative form in a document
+- Post-it notes on an online whiteboarding tool (like Figjam)
+- Spreadsheets for structured interviews or usability tests
 
 💡 **Tip:** Slack provides transcription for video files. If you record in Zoom or Meet, you can drop the video file into your private personal Slack channel (or in a research channel if you have consent to share the recording with other researchers). Then you can jump around the recording via the machine transcription.
 
 #### Debrief
 
-In a debrief, the team will convene to review a recent interview or collection of interviews. This is an essential part of aligning on insights and sharing knowledge. Decide as a team what the method and cadence of debriefing will be. Some methods include:
-- Scheduling a 30-minute time block immediately after each interview,
-- Dedicated individual note or reflection sessions writing in Mural or Google Docs, or
-- Scheduling one longer session (45-60 minutes) for the entire day's interviews.
+In a debrief, the team will convene to review a recent interview or collection of interviews. This is an essential part of aligning on insights and sharing knowledge. Decide as a team what the method and cadence of debriefing will be. These are some options:
+- Scheduling a 30-minute time block immediately after each interview
+- Dedicated individual note or reflection sessions writing in Mural or Google Docs
+- Scheduling one longer session (45-60 minutes) for the entire day's interviews
 
 It can be helpful to begin debriefs with 5 minutes of quiet reflection. This gives each team member a chance to write down their individual insights about the research before the discussion begins.
 
@@ -90,7 +90,7 @@ For the researcher (or person assigned to covering logistics):
 
 Gathering data can be a time consuming and intensive process. Data and information synthesis doesn’t need to (and often shouldn’t!) wait until the end of the project. Debrief information can help inform or drive synthesis, and you can consider this in how you structure your debriefs.
 
-For example, synthesize desk research or participant observation early on. Use this to inform research questions and moderation guides. Synthesize conversations with subject matter experts or organizational leaders to inform future data collection. This might look like:
+For example, synthesize desk research or participant observation early on. Use this to inform research questions and moderation guides. Synthesize conversations with subject matter experts or organizational leaders to inform future data collection. Here's how that could look:
 - Free association: 5 minutes silently writing down main ideas from an interview on a whiteboard, and 15 minutes discussing and affinity mapping (grouping similar items together into helpful themes)
 - Create a quadrant highlighting topic areas from the moderation guide you want to capture notes on
 

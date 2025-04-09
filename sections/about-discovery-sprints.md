@@ -3,7 +3,7 @@ layout: layouts/section
 title: About discovery sprints
 ---
 
-A discovery sprint is a time-bound, deep-dive investigation into a challenge or problem. Discovery sprints are conducted by a skilled and often cross-functional team. This work can be done in any sector, though at Bloom we most often partner with government agencies. The sprint team works with our client organization to learn about a problem or system. We bring expertise and a set of fresh eyes.
+A discovery sprint is a time-bound, deep-dive investigation into a challenge or problem. Discovery sprints are conducted by a skilled and often cross-functional team. This work can be done in any sector, though at Bloom we most often partner with government agencies. The sprint team works with our client organization to learn about a problem or system. We bring problem-solving tools and a set of fresh eyes.
 
 <b>The goal of a discovery sprint is to create a shared understanding with the client and make actionable recommendations. We’re not solving the challenge in this time frame.</b>
 
@@ -166,7 +166,7 @@ Define your guiding goal (or “north star”) early and return to it often with
 
 <b>2. Remember your client and stakeholders are knowledgeable</b>
 
-Your client has likely been grappling with this problem space, possibly for years, and knows the lay of the land, what has been tried before, and who talks to who in the government agency. Be mindful of their expertise, learn from them, and push back respectfully as new data may surface.
+Your client has likely been grappling with this problem space, possibly for years. They know the lay of the land, what has been tried before, and who talks to who in the government agency. Be mindful of their expertise, learn from them, and know that they brought you in for a reason. Your job is to respectfully surface new data and overlooked perspectives, so you can use your combined knowledge to find a new way.
 
 <b>3. Don’t jump to a solution</b>
 

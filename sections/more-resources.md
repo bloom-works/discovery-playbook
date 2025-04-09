@@ -3,10 +3,6 @@ layout: layouts/section
 title: More resources
 ---
 
-In this section, you’ll find:
-- Common terms
-- Useful links and templates
-
 ## Common terms
 
 These are some common terms used in this document and in practice.
