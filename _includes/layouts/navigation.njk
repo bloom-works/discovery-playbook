@@ -12,11 +12,14 @@
           <strong> {{ metadata.guide }}</strong>
         </a>
       </div>
-      <button class="nav-button" data-nav-button="search">
+      {# Search button elements commented out because search isn't implemented yet; uncomment to implement search. Inline style is a duct-tape fix for header alignment and centering. #}
+	    <button class="nav-button" id="search-button" data-nav-button="search" aria-label="Search">
+      {# 
         <svg viewbox="0 0 16 16" fill="currentColor">
-          <!--<use xlink:href="/bootstrap-icons.svg#search"></use>-->
+        <use xlink:href="/bootstrap-icons.svg#search"></use>
         </svg>
-        <!--<span>Search</span>-->
+        <span>Search</span> 
+      #}
       </button>
   </div>
 </nav>
