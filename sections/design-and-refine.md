@@ -36,7 +36,7 @@ Here’s an example of turning a story into a solid recommendation:
 Use a collaborative space like Figjam to discuss the most impactful stories and themes. Use the stories and themes as a base for drafting recommendations that are actionable and practical.
 
 {% Checklist %}
- For the product and delivery manager (PDM) and engagement manager (EM):
+For the product and delivery manager (PDM) and engagement manager (EM):
 <br>
 - Build in enough time in the schedule to interpret, analyze, and synthesize the collected data. Typically hold 3 days to a week at a minimum for this.
 {% endChecklist %}
