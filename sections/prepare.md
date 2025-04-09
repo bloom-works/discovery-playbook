@@ -43,14 +43,14 @@ If there’s alignment on the goals, you can start to ask the client for backgro
 
 #### Create a project brief
 
-A project brief is a place to capture foundational project information.  This document defines core information about the project and makes sure you and your clients are on the same page before you begin. A project brief should include: 
+A project brief is a place to capture foundational project information.  This document defines core information about the project and makes sure you and your clients are on the same page before you begin. A project brief should include these things: 
 
 <ul>
-    <li>The sprint challenge,</li>
-    <li>the goals of the sprint,</li>
-    <li>key members of the client’s organization who will be working closely with the sprint team,</li>
-    <li>timeline,  and</li>
-    <li>how you’ll connect with participants who are the audience of a service or program.</li>
+    <li>The sprint challenge</li>
+    <li>The goals of the sprint</li>
+    <li>Key members of the client’s organization who will be working closely with the sprint team</li>
+    <li>Timeline</li>
+    <li>How you’ll connect with participants who are the audience of a service or program</li>
 </ul>
 
 Share it with your client to make sure you all are in sync. In that same conversation, go over each team’s values and expectations. 
@@ -148,17 +148,17 @@ It is also a moment to set the conditions for collaboration, and to learn about 
 
 Immediately after the internal kickoff, start scheduling big project milestones and project rituals such as daily standups and weekly syncs and retros.
 
-The goal of this internal kickoff is to:
-- get everyone acquainted with each other and learn about team work styles,
-- develop more clarity on purpose, roles, and responsibilities, and
-- align on the sprint project goals, scope, and tools.
+These are the goals of the internal kickoff:
+- Get everyone acquainted with each other and learn about team work styles
+- Develop more clarity on purpose, roles, and responsibilities
+- Align on the sprint project goals, scope, and tools
 
 #### Onboard the team
-To set the sprint up for success, build cohesion and get clear about the rhythms and norms before the sprint begins. Create an onboarding guide to orient sprint team members. It should include key project documents and core policies on topics like travel and time tracking. Team members could create a “<a href="https://friday.app/p/personal-user-manual-for-work" target="_blank" rel="noopener noreferrer">User manual</a>” for themselves. This should include:
-- preferred communication and work styles,
-- strengths and areas of growth,
-- personal fun facts, and
-- anything else the rest of the team needs to know to get ready for the collaborative work to come.
+To set the sprint up for success, build cohesion and get clear about the rhythms and norms before the sprint begins. Create an onboarding guide to orient sprint team members. It should include key project documents and core policies on topics like travel and time tracking. Team members could create a “<a href="https://friday.app/p/personal-user-manual-for-work" target="_blank" rel="noopener noreferrer">User manual</a>” for themselves with these items:
+- Preferred communication and work styles
+- Strengths and areas of growth
+- Personal fun facts
+- Anything else the rest of the team needs to know to get ready for the collaborative work to come
 
 Team members can fill this out before or during the internal kickoff.
 
@@ -168,11 +168,11 @@ The team should establish core working hours. These are when everyone on the tea
 
 #### Set up rituals
 
-Discovery sprints follow agile methodology. Teams should be familiar with and make use of agile rituals and norms. That includes:
-- standups,
-- weekly planning meetings,
-- weekly retros, and
-- kanban-style project management tools.
+Discovery sprints follow agile methodology. Teams should be familiar with and make use of these agile rituals and norms:
+- Standups
+- Weekly planning meetings
+- Weekly retros
+- Kanban-style project management tools
 
 These are all tools to help the team learn, iterate, and stay in sync. They also help the teams stay integrated, especially when people work remotely. Foster a culture of continuous learning and feedback by holding regular (weekly or every two week) team retros and making sure team members feel comfortable communicating. Don’t forget to make space for frequent kudos and celebrations!
 
