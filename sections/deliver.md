@@ -23,14 +23,9 @@ Start with your goals for the presentation to get people aligned on what you’r
 - <a href="https://www.springfield-ma.gov/dr/fileadmin/community_dev/DR/Communication-Findings-and-Recommendations_2021.06.16.pdf" target="_blank" rel="noopener noreferrer">Key findings and recommendations for Springfield, Massachusetts (sample presentation)</a>
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
 - Identify key stakeholders, for example those who could be involved in future phases of work that follow the discovery phase (like implementation)
 - Pre-schedule the presentation to make sure the client and key stakeholders can attend: aim for 60-90 minutes
 - Schedule a dry run with the team to nail down hand offs, timing, and presentation flow
-{% endChecklist %}
-
-{% Checklist %}
 - Leverage tools to best convey your story — it may be a slide deck, but it could be live prototypes or videos
 - Keep slides concise so they’re easier to follow, and provide context to which section you’re currently in
 - Keep the presentation focused — you can always add an appendix with all the extra artifacts at the end or in a separate doc
