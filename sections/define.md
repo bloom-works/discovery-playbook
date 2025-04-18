@@ -25,19 +25,12 @@ To reduce these risks, consider some of these well-designed activities:
 - Conduct a **pre-mortem** exercise where we’ll imagine that the project has failed and explore all the reasons why, as a way to identify key risks we need to manage
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
 - Set up and facilitate client kickoff and brainstorming activities
+- Identify stakeholders, roles, and power dynamics that will affect this sprint and its outcomes
+- Identify risks and blockers in a pre-mortem exercise
 - Identify any other connected efforts and teams (for example business process work, tech modernization efforts), and how they might affect the clients’ bandwidth
 - Follow up after the kickoff to check in with the executive sponsor or the sprint champion about their endorsement of this effort and commitment to the timeline and goals
 - Make sure the team has access to the clients’ tools and ecosystem
-{%- endChecklist -%}
-
-{% Checklist %}
-For the full sprint team:
-<br>
-- Identify stakeholders, roles, and power dynamics that will affect this sprint and its outcomes
-- Identify risks and blockers in a pre-mortem exercise
 {% endChecklist %}
 
 {% KeyQuestions %}
@@ -87,8 +80,6 @@ Discovery sprints involve a lot of set-up work. This is because **a well-defined
 - Is open to change based on what we learn
 
 {% Checklist %}
-For the full sprint team:
-<br />
 - Stay curious
 - Align on a shared understanding of the problem space
 - Identify an initial “north star” problem statement
@@ -137,23 +128,11 @@ You may set out with an initial list of participants and, after a couple of conv
 - {% PrivateLink "https://docs.google.com/document/d/1RQ_Q6YdKpwWZ5SwufMk53imX07Lq23GYqu9Umky5VpY/edit?tab=t.0#heading=h.yhnhvidb2vop" %}How to do user research at Bloom Works{% endPrivateLink %}
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
 - Assess how involved clients want to be in the research planning and bring them in
-- Develop timelines and milestones for the research plan
-{% endChecklist %}
-
-{% Checklist %}
-For the researcher:
-<br>
 - Draft research plan and get feedback from the team
-- Get approval from the client on research plan (or key highlights)
-{% endChecklist %}
-
-{% Checklist %}
-For the full sprint team:
-<br>
 - Align on key areas such as problem statement, sprint goals, expected outcomes, and success criteria for research
+- Develop timelines and milestones for the research plan
+- Get approval from the client on research plan (or key highlights)
 {% endChecklist %}
 
 {% KeyQuestions %}
@@ -216,13 +195,10 @@ To help mitigate this, you can create distinct links for different parties distr
 - <a href="https://medium.com/pollinator/trauma-informed-research-co-designing-with-research-participants-9c0146dada17" target="_blank" rel="noopener noreferrer">Trauma-informed co-design approaches</a>
 
 {% Checklist %}
-For the researcher (with assistance from product and delivery manager and other teammates):
-<br>
 - Define recruitment strategies, timeline, and client involvement
 - Outline recruitment criteria and create a screener form if needed
 - Determine if you need consent forms, NDAs, or ethics approvals
-    <br>
-    - Consider data privacy regulations and guidelines that the project might have to adhere to, such as <a href="https://oag.ca.gov/privacy/ccpa" target="_blank" rel="noopener noreferrer">CCPA</a> or <a href="https://gdpr-info.eu/" target="_blank" rel="noopener noreferrer">GDPR</a>.
+- Consider data privacy regulations and guidelines that the project might have to adhere to, such as <a href="https://oag.ca.gov/privacy/ccpa" target="_blank" rel="noopener noreferrer">CCPA</a> or <a href="https://gdpr-info.eu/" target="_blank" rel="noopener noreferrer">GDPR</a>.
 - Set up logistics for compensation
 - Draft recruitment communication materials
 - Determine and set up any translation and accessibility needs you’ll need to support participants
