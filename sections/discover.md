@@ -59,22 +59,14 @@ It can be helpful to begin debriefs with 5 minutes of quiet reflection. This giv
 Keep your client updated about the status of interviews and roadblocks. The team should decide how to keep clients updated. This could be through emails, weekly or bi-weekly virtual meetings, Slack updates, or Mural logs.
 
 {% Checklist %}
-For the full sprint team:
-<br>
-- Decide how to assign interviewers and note-takers (this can rotate instead of being the same person each time!)
-- Discuss what note taking methods and approaches will be used during the sprint
-- Participate in debrief sessions
-{% endChecklist %}
-
-{% Checklist %}
-For the researcher (or person assigned to covering logistics):
-<br>
 - Create moderator’s guides for all audience groups
 - Conduct dry runs of the interviews, as needed (can have a team member pretend to be an interviewee)
 - Create a verbal consent script and a written consent form 
 - Determine the tools needed for recording interviews 
 - Set up the debrief method and cadence
-- Incorporate key research decisions in the agenda at one of the initial team meetings 
+- Incorporate key research decisions in the agenda at one of the initial team meetings
+- Decide how to assign interviewers and note-takers (this can rotate instead of being the same person each time!)
+- Discuss what note taking methods and approaches will be used during the sprint
 {% endChecklist %}
 
 {% KeyQuestions %}
@@ -104,16 +96,8 @@ Here are some ways to share learnings:
 - Weekly update with insights
 
 {% Checklist %}
-For the full sprint team:
-<br>
 - While debriefing after interviews, document highlightable quotes, questions, and early ideas or hunches
 - Document and take notes or sketches of your early ideas and ways your knowledge of the problem is growing
-{% endChecklist %}
-
-{% Checklist %}
-For the researcher, product and delivery manager (PDM), or other assigned role:
-<br>
-- Schedule regular sprint team debriefs on a daily or weekly basis
 - Set up and manage platforms and tools for ongoing documentation of learnings 
 - Provide the client with regular updates about the data as it is being gathered (like weekly updates), don’t hold all your learnings for the end of the project!
 {% endChecklist %}
