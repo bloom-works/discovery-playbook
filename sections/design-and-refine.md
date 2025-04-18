@@ -147,3 +147,5 @@ For the researcher, product and delivery manager (PDM), or other appropriate tea
 - What do you expect your client to do with the artifacts? What actions can they take?
 - What problems are you illuminating? Why are you illuminating them?
 {% endKeyQuestions %}
+
+**Next section → <a href="https://discovery.bloomworks.digital/sections/deliver/">Deliver</a>**
