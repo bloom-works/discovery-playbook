@@ -31,8 +31,6 @@ For the product and delivery manager (PDM):
 {% endChecklist %}
 
 {% Checklist %}
-For the researcher or person presenting the deliverable:
-<br>
 - Leverage tools to best convey your story — it may be a slide deck, but it could be live prototypes or videos
 - Keep slides concise so they’re easier to follow, and provide context to which section you’re currently in
 - Keep the presentation focused — you can always add an appendix with all the extra artifacts at the end or in a separate doc
@@ -61,19 +59,11 @@ Decide with your client on where things should live on their drives **before** t
 This is also a good time to create and share a participant memo with all those who talked to us. The memo details our key findings, recommendations, and next steps. This memo is very important to us, as it allows for us to be transparent with those who made our research possible.
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
-- Agree with the client ahead of time on where final artifacts and documents will live
-- Double-check that PII is not included in deliverables
-- Make sure clients actually test their login and access so they are sure they can access everything they need 
-{% endChecklist %}
-
-{% Checklist %}
-For the researcher or the owner of the deliverable:
-<br>
+- Agree with the client ahead of time on where final artifacts and documents will live.
 - Retitle documents so it’s clear what they are, and remove any confusing or extraneous information from the filename (like COPY OF or — REV3, for example)
-- Remove personally identifiable information (PII) about research participants from record files. Note that in many software suites (including Google Docs) there is a built-in revision history for files. Double-check that PII is not included in the revision history or copy and paste the scrubbed text into a new document.
+- Double-check that PII is not included in deliverables.  Note that in many software suites (including Google Docs) there is a built-in revision history for files. Double-check that PII is not included in the revision history or copy and paste the scrubbed text into a new document.
 - Share or exchange ownership of live files (Google Docs, slides, etc.)
+- Make sure clients actually test their login and access so they are sure they can access everything they need 
 - If you’ve been working within the client ecosystem, save copies of all files to a Bloom internal project folder (unless there’s a contractual reason not to)
 - Create and send out a participant memo to all participants
 {% endChecklist %}
@@ -106,8 +96,6 @@ Depending on the size of the team, dynamics, and challenges faced throughout the
 💡 **Tip:** Remember to highlight the wins. And talk about why and what you could learn from them.
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
 - Hold a retro with the full team. Have someone not on the project facilitate if they can.
 - With the engagement manager (EM), synthesize the retro to identify how to take forward the learnings and action items.
 {% endChecklist %}
@@ -133,15 +121,8 @@ Seek out other opportunities to share with the wider community. This could be a 
 - {% PrivateLink "https://docs.google.com/spreadsheets/d/1ZYsZhuD0aMyovkw5JV7MEOrkFJ8KFvkq4C9RNKZqCY4/edit?gid=0#gid=0" %}Project closeout checklist template{% endPrivateLink %}
 
 {% Checklist %}
-For the full sprint team:
-<br>
-- If you have sensitive data or files, make sure they are free from PII
-- Identify ways to reflect on the work and share lessons learned
-{% endChecklist %}
-
-{% Checklist %}
-For the engagement manager (EM), with assistance from the product and delivery manager (PDM) and team:
-<br>
+- If you have sensitive data or files, make sure they are free from PII.
+- Identify ways to reflect on the work and share lessons learned.
 - Make sure your internal storage method has all final draft deliverables and key project documents that you have permission to save. All documents should have a clear and identifiable file naming convention.
 - Seek written confirmation from the client that you have met all contractual deliverables.
 {% endChecklist %}
