@@ -145,3 +145,5 @@ For the engagement manager (EM), with assistance from the product and delivery m
 - Make sure your internal storage method has all final draft deliverables and key project documents that you have permission to save. All documents should have a clear and identifiable file naming convention.
 - Seek written confirmation from the client that you have met all contractual deliverables.
 {% endChecklist %}
+
+**Next section → <a href="/sections/more-resources/"> Common terms and useful links </a>**

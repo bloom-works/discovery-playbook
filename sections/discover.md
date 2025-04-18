@@ -124,3 +124,5 @@ For the researcher, product and delivery manager (PDM), or other assigned role:
 - Are you talking to the right people and asking the right questions? Do you need to adjust your approaches and questions to understand the problem?
 - What ideas or hypotheses are developing about the problem space?
 {% endKeyQuestions %}
+
+**Next section → <a href="/sections/design-and-refine/">Design and refine</a>**
