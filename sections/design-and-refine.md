@@ -36,19 +36,12 @@ Here’s an example of turning a story into a solid recommendation:
 Use a collaborative space like Figjam to discuss the most impactful stories and themes. Use the stories and themes as a base for drafting recommendations that are actionable and practical.
 
 {% Checklist %}
-For the product and delivery manager (PDM) and engagement manager (EM):
-<br>
 - Build in enough time in the schedule to interpret, analyze, and synthesize the collected data. Typically hold 3 days to a week at a minimum for this.
-{% endChecklist %}
-
-{% Checklist %}
-For the researcher or PDM: 
-<br>
-- Assign a point person to lead the synthesis process
-- Decide on the tools the team will use to synthesize data
-- Be intentional about making the synthesis process a collaborative effort with the team
-- Schedule multiple team synthesis sessions
-- Verify if the recommendations overlap with or can get added to a current client program or service
+- Assign a point person to lead the synthesis process.
+- Decide on the tools the team will use to synthesize data.
+- Be intentional about making the synthesis process a collaborative effort with the team.
+- Schedule multiple team synthesis sessions.
+- Verify if the recommendations overlap with or can get added to a current client program or service.
 {% endChecklist %}
 
 {% KeyQuestions %}
@@ -96,8 +89,6 @@ Workshop draft recommendations with your client before you move onto final deliv
 - {% PrivateLink "https://docs.google.com/presentation/d/1ZqLmCTULwd_4q6tERoXWLHRw0xsRb14W/edit?usp=share_link&ouid=105196013299210443277&rtpof=true&sd=true" %}Impact/effort matrix for prioritizing recommendations{% endPrivateLink %}
 
 {% Checklist %}
-For the researcher, or full sprint team:
-<br>
 - Prioritize recommendations with an eye on impact and effort levels
 - Consider your design constraints and any client limitations to keep in mind
 - Get feedback on findings and emerging recommendations by workshopping ideas with the client
@@ -133,8 +124,6 @@ What you’ll actually develop will vary from sprint to sprint, but it’s usual
 💡 **Tip:** Remember that people with different usability needs might access artifacts now or in the future. Diagrams and virtual whiteboards are informative, but should complement plain-language text analysis.
 
 {% Checklist %}
-For the researcher, product and delivery manager (PDM), or other appropriate team member:
-<br>
 - Identify which concepts would be best to visualize in order to tell the story you want
 - When possible, walk clients through potential artifacts so they can help identify what will appeal the most to the client
 - Create artifacts that the client has the ability to take action on (these can be informed by ongoing conversations with the client)
