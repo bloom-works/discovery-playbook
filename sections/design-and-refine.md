@@ -148,4 +148,4 @@ For the researcher, product and delivery manager (PDM), or other appropriate tea
 - What problems are you illuminating? Why are you illuminating them?
 {% endKeyQuestions %}
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/deliver/">Deliver</a>**
+**Next section → <a href="/sections/deliver/">Deliver</a>**

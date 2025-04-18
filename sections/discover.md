@@ -125,4 +125,4 @@ For the researcher, product and delivery manager (PDM), or other assigned role:
 - What ideas or hypotheses are developing about the problem space?
 {% endKeyQuestions %}
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/design-and-refine/">Design and refine</a>**
+**Next section → <a href="/sections/design-and-refine/">Design and refine</a>**

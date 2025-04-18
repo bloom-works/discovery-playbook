@@ -203,4 +203,4 @@ At Bloom, we practice cultural competence by being transparent with participants
     <li><a href="https://medium.com/pollinator/trauma-informed-research-bridging-power-divides-with-participants-f62d6dcca3d0" target="_blank" rel="noopener noreferrer">Bridging power divides with participants</a></li>
 </ul>
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/prepare/">Prepare<a/>**
+**Next section → <a href="/sections/prepare/">Prepare</a>**

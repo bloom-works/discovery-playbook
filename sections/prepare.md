@@ -199,4 +199,4 @@ For the full sprint team:
 - What do you want to achieve and how will you measure success?
 {% endKeyQuestions %}
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/define/">Define</a>**
+**Next section → <a href="/sections/define/">Define</a>**

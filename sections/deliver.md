@@ -146,4 +146,4 @@ For the engagement manager (EM), with assistance from the product and delivery m
 - Seek written confirmation from the client that you have met all contractual deliverables.
 {% endChecklist %}
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/more-resources/"> Common terms and useful links </a>**
+**Next section → <a href="/sections/more-resources/"> Common terms and useful links </a>**

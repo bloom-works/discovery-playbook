@@ -238,4 +238,4 @@ For the researcher (with assistance from product and delivery manager and other 
 - Do you need to set up accounts for recruitment (like Google Voice number so you don’t have to provide your personal cell phone number) or for paying participant incentives (like <a href="https://www.perfectgift.com/corporate" target="_blank" rel="noopener noreferrer">PerfectGift</a> or <a href="https://cash.app/" target="_blank" rel="noopener noreferrer">Cash App</a>)?
 {% endKeyQuestions %}
 
-**Next section → <a href="https://discovery.bloomworks.digital/sections/discover/">Discover</a>**
+**Next section → <a href="/sections/discover/">Discover</a>**

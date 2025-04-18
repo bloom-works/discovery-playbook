@@ -43,3 +43,7 @@ This playbook is by no means exhaustive or set in stone. We expect this playbook
 ## How to contact us
 
 Want to talk more about discovery sprints? **Contact us at <a href="mailto:hello@bloomworks.digital">hello@bloomworks.digital</a>.**
+
+<br/>
+
+**Next section → <a href="/sections/about-discovery-sprints/"> About discovery sprints </a>**
