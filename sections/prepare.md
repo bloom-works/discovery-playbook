@@ -65,8 +65,6 @@ Share it with your client to make sure you all are in sync. In that same convers
 </ul>
 
 {% Checklist %}
-For the product and delivery manager (PDM) or engagement manager (EM):
-<br>
 - Draft a project brief that includes:
     <br>
     - Sprint challenge
@@ -75,18 +73,8 @@ For the product and delivery manager (PDM) or engagement manager (EM):
     - Client collaboration and input expectations
 <br>
 - Identify key roles for the client
-{% endChecklist %}
-
-{% Checklist %}
-For the researchers:
-<br>
-- Start drafting the research plan and participant recruitment needs
-{% endChecklist %}
-
-{% Checklist %}
-For the full sprint team:
-<br>
 - Get background material and related research from the client
+- Start drafting the research plan and participant recruitment needs
 - Learn about other recent or existing projects to address the challenge or problem area
 - Identify responsibility gaps or areas of ambiguity to address before kickoff
 - Throughout the project, keep an eye out for goals that may need to be revised based on what the team learns
@@ -125,8 +113,6 @@ The roles and responsibilities on sprint teams typically look like this:
 - **Tech strategist** — Consults on tech, architecture, and builds prototypes.
 
 {% Checklist %}
-For the EM:
-<br>
 - Make sure the team lead and other members are clear on their role and ready to work collaboratively
 {% endChecklist %}
 
@@ -177,17 +163,10 @@ Discovery sprints follow agile methodology. Teams should be familiar with and ma
 These are all tools to help the team learn, iterate, and stay in sync. They also help the teams stay integrated, especially when people work remotely. Foster a culture of continuous learning and feedback by holding regular (weekly or every two week) team retros and making sure team members feel comfortable communicating. Don’t forget to make space for frequent kudos and celebrations!
 
 {% Checklist %}
-For the product and delivery manager (PDM):
-<br>
 - Create and share onboarding guides
 - Set up and facilitate internal project kickoff
 - Prepare “user manuals” for the team to fill out
 - Decide on internal sprint tools with team members and agree on their use 
-{% endChecklist %}
-
-{% Checklist %}
-For the full sprint team:
-<br>
 - Review the project brief and what we know about the project, problem statement, and client so far
 {% endChecklist %}
 
